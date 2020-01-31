@@ -1,28 +1,18 @@
 ---
-title: Fox Village In Japan
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
-date: '2018-01-11'
-thumb_img_path: images/5.jpg
-content_img_path: images/5.jpg
-excerpt: >-
-  Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
-  situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
-  can visit a village where there is a vast population of foxes.
+title: I dare ya
+subtitle: I dare ya. I double dog dare ya. The things I did trying to fit in.
+date: 2017-12-16T00:00:00-05:00
+thumb_img_path: "/images/kids.jpeg"
+content_img_path: ''
+excerpt: I dare ya. I double dog dare ya. The things I did trying to fit in. The boys
+  in our neighborhood did not play with safety in mind. We climbed the tallest trees,
+  dug the deepest holes
 template: post
+canonical_url: ''
+
 ---
+I dare ya. I double dog dare ya. The things I did trying to fit in. The boys in our neighborhood did not play with safety in mind. We climbed the tallest trees, dug the deepest holes, swam with snakes and alligators (yes, really.) We even built bike ramps and jumped over the little kids crouching in trash cans. There was a kid who didn’t fit in. His mom wouldn’t let him do those things. I wish that we hadn’t, but we rejected him; he just didn’t belong.
 
-Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
+Look around and people still demand a right of passage or trial by fire for initiation and inclusion. It might be a political position, the right sized bank account, color, sexual orientation, or a hundred different differences. Sadder than Alan, who didn’t fit in our neighborhood group, are those who exclude others from church because they are different.
 
-**Fox Village** in hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
->The fox never found a better messenger than himself.
-
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege
-
->The fox changes his fur but not his habits.
-
-Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege.
-
-In hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+First recorded when a dignified pastor watched a prisoner go to the gallows, John Bradford said, “There but for the grace of God, go I.” We once were of the membership of the dying, now because of the grace of God in the family of the living. None should be prevented, but all must be urged, to believe, to obey, and to share in the wonderful riches of His grace.
