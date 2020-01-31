@@ -29,6 +29,14 @@ sections:
     url: blog/index.html
   component: PostsBlock
   num_posts_displayed: 4
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  title: 'Bronson Baptist Church '
+  image: "/images/bible1.jpeg"
+  section_id: ''
+  actions: []
+  content: ''
 menus:
   main:
     title: Home
