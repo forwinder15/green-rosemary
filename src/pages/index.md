@@ -14,7 +14,7 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: Contact Me
+  - label: Get in Touch
     url: "/contact"
   component: ContentBlock
   content: Established in 1885, the First Baptist Church of Bronson, Florida has faithfully
