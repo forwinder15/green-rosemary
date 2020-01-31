@@ -26,6 +26,7 @@ fields:
 pages:
 - src/pages/Ministries /children-s-ministry.md
 - src/pages/Ministries /ladies-ministry.md
+- src/pages/Ministries /men-s-ministry.md
 - src/pages/Ministries /missions-and-outreach.md
 - src/pages/Ministries /student-ministry.md
 - src/pages/Ministries /vacation-bible-school.md
