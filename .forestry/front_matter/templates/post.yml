@@ -40,5 +40,10 @@ fields:
   default: post
   config:
     required: true
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 pages:
 - src/pages/posts/fox-village-in-japan.md
