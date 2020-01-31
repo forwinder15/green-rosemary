@@ -1,5 +1,5 @@
 ---
-title: I dare ya
+title: 'I dare ya '
 subtitle: I dare ya. I double dog dare ya. The things I did trying to fit in.
 date: 2017-12-16T00:00:00-05:00
 thumb_img_path: "/images/kids.jpeg"
@@ -16,3 +16,5 @@ I dare ya. I double dog dare ya. The things I did trying to fit in. The boys in 
 Look around and people still demand a right of passage or trial by fire for initiation and inclusion. It might be a political position, the right sized bank account, color, sexual orientation, or a hundred different differences. Sadder than Alan, who didn’t fit in our neighborhood group, are those who exclude others from church because they are different.
 
 First recorded when a dignified pastor watched a prisoner go to the gallows, John Bradford said, “There but for the grace of God, go I.” We once were of the membership of the dying, now because of the grace of God in the family of the living. None should be prevented, but all must be urged, to believe, to obey, and to share in the wonderful riches of His grace.
+
+Pastor Pete Pharis
