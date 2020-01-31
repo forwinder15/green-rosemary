@@ -41,8 +41,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/basic-rules-for-walking-in-the-mountains.md
-- src/pages/posts/best-waves-surfing-spain.md
 - src/pages/posts/fox-village-in-japan.md
 - src/pages/posts/japan.md
 - src/pages/posts/the-ride-in-the-woods.md
