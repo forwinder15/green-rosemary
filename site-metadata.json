@@ -13,7 +13,11 @@
   "footer": {
     "content": "Bronson Baptist Church -  All rights reserved.",
     "links": [
-
+      {
+        "text": "Email: fbcbronson@gmail.com",
+        "url": "mailto:fbcbronson@gmail.com",
+        "new_window": true
+      }
     ]
   }
 }
