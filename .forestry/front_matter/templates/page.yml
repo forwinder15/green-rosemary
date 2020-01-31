@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/Ministries /children-s-ministry.md
 - src/pages/Ministries /student-ministry.md
 - src/pages/about.md
 - src/pages/ministries.md
