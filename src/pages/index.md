@@ -5,8 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: We exist to touch every home in Bronson, and every nation of the world
+    with the life-changing message of Jesus Christ.
   title: ''
   actions: []
 - type: contentblock
