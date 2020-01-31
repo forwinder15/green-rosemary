@@ -8,7 +8,9 @@ sections:
   content: We exist to touch every home in Bronson, and every nation of the world
     with the life-changing message of Jesus Christ.
   title: 'Bronson Baptist Church '
-  actions: []
+  actions:
+  - label: Find Out More
+    url: "/ministries"
 - type: contentblock
   template: contentblock
   title: About
@@ -29,14 +31,6 @@ sections:
     url: blog/index.html
   component: PostsBlock
   num_posts_displayed: 4
-- template: contentblock
-  component: ContentBlock
-  type: contentblock
-  title: 'Bronson Baptist Church '
-  image: "/images/bible1.jpeg"
-  section_id: ''
-  actions: []
-  content: ''
 menus:
   main:
     title: Home
