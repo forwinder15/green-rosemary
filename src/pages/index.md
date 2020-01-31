@@ -7,7 +7,7 @@ sections:
   component: HeroBlock
   content: We exist to touch every home in Bronson, and every nation of the world
     with the life-changing message of Jesus Christ.
-  title: ''
+  title: 'Bronson Baptist Church '
   actions: []
 - type: contentblock
   template: contentblock
