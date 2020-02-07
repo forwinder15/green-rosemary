@@ -19,7 +19,7 @@ sections:
   - label: Missions and Outreach
     url: "/missions-and-outreach"
   - label: 'Children''s Ministry '
-    url: "/children's-ministry "
+    url: "/children-s-ministry "
   - label: Student Ministry
     url: "/"
   component: ContentBlock
