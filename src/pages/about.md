@@ -11,19 +11,6 @@ template: page
 ---
 Established in 1885, the First Baptist Church of Bronson, Florida has faithfully served the Bronson community for over one hundred and thirty-four years.
 
-**Sunday Morning**  
-9:15 Bible Study  
-10:30 Worship
-
-**Sunday Evening**  
-5:00 Discipleship Classes  
-6:00 Worship
-
-**Wednesday Night**  
-5:45 Dinner  
-6:30 Prayer Meeting, Youth Worship, RA’s, GA’s  
-7:30 Choir Practice
-
 ## Below is a brief description of our doctrinal beliefs as a church.
 
 ## 
