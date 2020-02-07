@@ -19,7 +19,7 @@ sections:
   - label: Vacation Bible School
     url: "/vacation-bible-school"
   - label: Men's Ministry
-    url: "/mens-ministry"
+    url: "/men-s-ministry"
   - label: 'Ladies Ministry '
     url: "/ladies-ministry"
   - label: Missions and Outreach
