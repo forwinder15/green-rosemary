@@ -9,7 +9,7 @@ subtitle: ''
 img_path: ''
 
 ---
-**Senior Pastor - Pete Pharis**
+**Senior Pastor - Pete Pharis and Mrs. Cindy Pharis**
 
 ![](/images/pete.png)
 
