@@ -30,6 +30,11 @@
         "text": "Email: fbcbronson@gmail.com",
         "url": "mailto:fbcbronson@gmail.com",
         "new_window": true
+      },
+      {
+        "text": "Created by Johnathan Coker",
+        "url": "https://johnathancoker.com",
+        "new_window": true
       }
     ]
   }
