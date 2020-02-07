@@ -25,5 +25,6 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/nursery.md
 - src/pages/staff.md
 - src/pages/style-guide.md
