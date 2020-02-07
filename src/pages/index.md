@@ -16,6 +16,10 @@ sections:
   title: Service Times and Ministries
   section_id: 'Ministries '
   actions:
+  - label: Missions and Outreach
+    url: "/missions-and-outreach"
+  - label: Student Ministry
+    url: "/student-ministry"
   - label: Children's Clothes Closet
     url: "/children-s-clothes-closet"
   - label: 'Nursery '
@@ -26,12 +30,8 @@ sections:
     url: "/men-s-ministry"
   - label: 'Ladies Ministry '
     url: "/ladies-ministry"
-  - label: Missions and Outreach
-    url: "/missions-and-outreach"
   - label: 'Children''s Ministry '
     url: "/children-s-ministry "
-  - label: Student Ministry
-    url: "/student-ministry"
   component: ContentBlock
   content: "Established in 1885, the First Baptist Church of Bronson, Florida has
     faithfully served the Bronson community for over one hundred and thirty-four years.\n\n**Sunday
