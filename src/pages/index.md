@@ -13,11 +13,13 @@ sections:
     url: "/ministries"
 - type: contentblock
   template: contentblock
-  title: About
-  section_id: about
+  title: Ministries
+  section_id: 'Ministries '
   actions:
-  - label: Get in Touch
-    url: "/contact"
+  - label: 'Children''s Ministry '
+    url: "/Children's Ministry "
+  - label: Student Ministry
+    url: "/"
   component: ContentBlock
   content: Established in 1885, the First Baptist Church of Bronson, Florida has faithfully
     served the Bronson community for over one hundred and thirty-four years.
