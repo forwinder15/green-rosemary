@@ -1,9 +1,12 @@
 ---
+title: 'Staff '
+menus:
+  main:
+    title: Staff
+    weight: 6
 template: page
-title: Staff
 subtitle: ''
 img_path: ''
-
 ---
 **Senior Pastor - Pete Pharis**
 

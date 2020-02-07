@@ -5,7 +5,7 @@ img_path: "/images/church.jpg"
 menus:
   main:
     title: About
-    weight: 4
+    weight: 2
 template: page
 
 ---
