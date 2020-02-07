@@ -17,7 +17,7 @@ sections:
   section_id: 'Ministries '
   actions:
   - label: Missions and Outreach
-    url: "/Missions and Outreach"
+    url: "/missions-and-outreach"
   - label: 'Children''s Ministry '
     url: "/Children's Ministry "
   - label: Student Ministry
