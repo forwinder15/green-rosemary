@@ -4,7 +4,7 @@ title: 'Pollon and the Gospel '
 subtitle: " Last Sunday I noticed our first pollen storm of the year. You know that
   yellow air that ends up everywhere, covering cars circling every puddle"
 date: 2020-01-26T00:00:00-05:00
-thumb_img_path: ''
+thumb_img_path: "/images/pollon.jpeg"
 content_img_path: ''
 excerpt: " Last Sunday I noticed our first pollen storm of the year. You know that
   yellow air that ends up everywhere, covering cars circling every puddle"
