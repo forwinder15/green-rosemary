@@ -16,6 +16,8 @@ sections:
   title: Ministries
   section_id: 'Ministries '
   actions:
+  - label: Vacation Bible School
+    url: "/vacation-bible-school"
   - label: Men's Ministry
     url: "/mens-ministry"
   - label: 'Ladies Ministry '
