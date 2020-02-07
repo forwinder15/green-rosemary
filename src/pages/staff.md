@@ -13,7 +13,7 @@ img_path: ''
 
 ![](/images/pete.png)
 
-**Associate Pastor of Mission and Discipleship - John Coker**
+**Associate Pastor of Missions and Discipleship - John Coker**
 
 **Student Minister - Seth Sache**
 
