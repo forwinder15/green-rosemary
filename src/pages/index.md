@@ -16,6 +16,8 @@ sections:
   title: Service Times and Ministries
   section_id: 'Ministries '
   actions:
+  - label: Music Ministry
+    url: "/music-ministry"
   - label: Missions and Outreach
     url: "/missions-and-outreach"
   - label: Student Ministry
