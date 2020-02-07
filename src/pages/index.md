@@ -30,11 +30,11 @@ sections:
     url: "/"
   component: ContentBlock
   content: "Established in 1885, the First Baptist Church of Bronson, Florida has
-    faithfully served the Bronson community for over one hundred and thirty-four years.\n\n**Sunday
-    Morning                Sunday Evening              Wednesday Night**  \n9:15 Bible
-    Study                    6:00 Worship                      5:45 Dinner  \n10:30
-    Worship                                                  6:15 Youth - 6:30 Prayer
-    Meeting  \n (*Childcare provided at all services)                          7:30
+    faithfully served the Bronson community for over one hundred and thirty-four years.\n\n>
+    **Sunday Morning                Sunday Evening              Wednesday Night**
+    \ \n> 9:15 Bible Study                    6:00 Worship                      5:45
+    Dinner  \n> 10:30 Worship                                                  6:15
+    Youth - 6:30 Prayer Meeting  \n>  (*Childcare provided at all services)                          7:30
     Choir Practice"
   image: ''
 - type: postsblock
