@@ -16,6 +16,8 @@ sections:
   title: Service Times and Ministries
   section_id: 'Ministries '
   actions:
+  - label: Children's Clothes Closet
+    url: "/children-s-clothes-closet"
   - label: 'Nursery '
     url: "/nursery"
   - label: Vacation Bible School
