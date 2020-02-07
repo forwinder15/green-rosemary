@@ -1,11 +1,11 @@
 ---
-title: Get to know Us
+title: Get plugged in to our community 
 subtitle: We want you here
 img_path: "/images/church.jpg"
 menus:
   main:
-    title: About
-    weight: 3
+    title: Get Connected 
+    weight: 2
 template: page
 
 ---
