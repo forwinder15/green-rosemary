@@ -15,6 +15,6 @@ template: page
 
 #### It’s our hope, that through the meaningful relationships formed in our groups, everyone can grow in their faith.
 
-#### The Best way to connect with a group is to join one of our Sunday School classes during the 9:00AM hour on Sunday Mornings. 
+#### The Best way to connect with a group is to join one of our Sunday School classes during the 9:00AM hour on Sunday Mornings.
 
-#### Connect with a Welcome Team member at the Welcome center to find out more.
+#### Connect with a Welcome Team member at the Welcome center to find out more or call 352-486-2282.
