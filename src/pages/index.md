@@ -27,7 +27,7 @@ sections:
   - label: 'Children''s Ministry '
     url: "/children-s-ministry "
   - label: Student Ministry
-    url: "/"
+    url: "/student-ministry"
   component: ContentBlock
   content: "Established in 1885, the First Baptist Church of Bronson, Florida has
     faithfully served the Bronson community for over one hundred and thirty-four years.\n\n**Sunday
