@@ -16,6 +16,8 @@ sections:
   title: Service Times and Ministries
   section_id: 'Ministries '
   actions:
+  - label: 'Nursery '
+    url: "/nursery"
   - label: Vacation Bible School
     url: "/vacation-bible-school"
   - label: Men's Ministry
