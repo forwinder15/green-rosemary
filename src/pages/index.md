@@ -13,7 +13,7 @@ sections:
     url: "/ministries"
 - type: contentblock
   template: contentblock
-  title: Ministries
+  title: Service Times and Ministries
   section_id: 'Ministries '
   actions:
   - label: Vacation Bible School
