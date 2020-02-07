@@ -34,7 +34,7 @@ sections:
     Morning                Sunday Evening              Wednesday Night**  \n9:15 Bible
     Study                    6:00 Worship                      5:45 Dinner  \n10:30
     Worship                                                  6:15 Youth - 6:30 Prayer
-    Meeting  \n                                                                                   7:30
+    Meeting  \n (*Childcare provided at all services)                          7:30
     Choir Practice"
   image: ''
 - type: postsblock
