@@ -37,6 +37,18 @@ sections:
   component: ContentBlock
   content: ''
   image: ''
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  title: 'Service Times '
+  section_id: Service
+  content: "Established in 1885, the First Baptist Church of Bronson, Florida has
+    faithfully served the Bronson community for over one hundred and thirty-four years.\n\n**Sunday
+    Morning**\n\n9:15 Bible Study\n\n10:30 Worship\n\n**Sunday Evening**\n\n6:00 Worship\n\n**Wednesday
+    Night**\n\n5:45 Dinner\n\n6:15 Youth - 6:30 Prayer Meeting\n\n7:30 Choir Practice\n\n
+    \ \n(*Childcare provided at all services)"
+  actions: []
+  image: ''
 - type: postsblock
   template: postsblock
   title: Pastor's Blog
