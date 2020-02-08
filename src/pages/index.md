@@ -13,7 +13,7 @@ sections:
     url: "/ministries"
 - type: contentblock
   template: contentblock
-  title: Service Times and Ministries
+  title: Ministries
   section_id: 'Ministries '
   actions:
   - label: Missions and Outreach
@@ -35,13 +35,7 @@ sections:
   - label: 'Ladies Ministry '
     url: "/ladies-ministry"
   component: ContentBlock
-  content: "Established in 1885, the First Baptist Church of Bronson, Florida has
-    faithfully served the Bronson community for over one hundred and thirty-four years.\n\n**Sunday
-    Morning---------------Sunday Evening-----------------Wednesday Night**  \n9:15
-    Bible Study-----------------------6:00 Worship--------------------------------5:45
-    Dinner  \n10:30 Worship-------------------------------------------------------------6:15
-    Youth - 6:30 Prayer Meeting  \n(*Childcare provided at all services)-----------------------------------------7:30
-    Choir Practice"
+  content: ''
   image: ''
 - type: postsblock
   template: postsblock
