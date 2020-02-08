@@ -5,8 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: We exist to touch every home in Bronson, and every nation of the world
-    with the life-changing message of Jesus Christ.
+  content: |-
+    We exist to touch every home in Bronson, and every nation of the world with the life-changing message of Jesus Christ.
+
+    Established in 1885, the First Baptist Church of Bronson, Florida has faithfully served the Bronson community for over one hundred and thirty-four years.
   title: 'Bronson Baptist Church '
   actions:
   - label: Find Out More
