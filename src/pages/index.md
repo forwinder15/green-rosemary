@@ -43,8 +43,6 @@ sections:
   title: 'Service Times '
   section_id: Service
   content: |-
-    Established in 1885, the First Baptist Church of Bronson, Florida has faithfully served the Bronson community for over one hundred and thirty-four years.
-
     # Sunday Morning
 
     9:15 Bible Study
