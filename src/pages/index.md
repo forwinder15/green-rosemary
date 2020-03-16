@@ -10,9 +10,7 @@ sections:
 
     Established in 1885, the First Baptist Church of Bronson, Florida has faithfully served the Bronson community for over one hundred and thirty-four years.
   title: Worship God - Share the gospel - Have fun doing it
-  actions:
-  - label: Find Out More
-    url: "/ministries"
+  actions: []
 - type: contentblock
   template: contentblock
   title: Ministries
