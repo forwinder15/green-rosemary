@@ -1,9 +1,9 @@
 {
-  "title": "Bronson Baptist Church ",
+  "title": "Bronson First Baptist Church ",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
-    "title": "Bronson Baptist Church",
+    "title": "Bronson First Baptist Church",
     "tagline": "Connect with us today! We want you here.  ",
     "profile_img": "/images/Screen Shot 2020-02-06 at 7.43.48 PM.png",
     "bg": "dark",
@@ -29,6 +29,11 @@
       {
         "text": "Email: fbcbronson@gmail.com",
         "url": "mailto:fbcbronson@gmail.com",
+        "new_window": true
+      },
+      {
+        "text": "Created by Johnathan Coker",
+        "url": "https://johnathancoker.com",
         "new_window": true
       }
     ]

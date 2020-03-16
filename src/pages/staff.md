@@ -9,13 +9,17 @@ subtitle: ''
 img_path: ''
 
 ---
-**Senior Pastor - Pete Pharis and Mrs. Cindy Pharis**
+**Senior Pastor - Pete and Cindy Pharis**
 
 ![](/images/pete.png)
 
-**Associate Pastor of Missions and Discipleship - John Coker**
+**Associate Pastor of Missions and Discipleship - John and Ashly Coker**
 
-**Student Minister - Seth Sache**
+![](/images/family photo.jpg)
+
+**Student Minister - Seth and Morgan Sache**
+
+![](/images/seth.jpg)
 
 **Choir Director - Melinda Chemin**
 

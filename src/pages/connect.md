@@ -9,7 +9,7 @@ menus:
 template: page
 
 ---
-#### Our church’s mission is to connect people to Jesus. Being a part of a faith community provides a wonderful opportunity for this to happen.
+#### **Our church’s mission is to connect people to Jesus.** Being a part of a faith community provides a wonderful opportunity for this to happen.
 
 #### In our groups we learn God’s Word, care for each other, praise God for who He is and what He’s done, and pray to God for His help and guidance.
 
