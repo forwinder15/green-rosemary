@@ -5,10 +5,22 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: |-
-    We exist to touch every home in Bronson, and every nation of the world with the life-changing message of Jesus Christ.
-
-    Established in 1885, the First Baptist Church of Bronson, Florida has faithfully served the Bronson community for over one hundred and thirty-four years.
+  content: "### **Coronavirus Update** \n\nDear Church Family,\n\nWe want to take
+    a few minutes of your time to update you on what's happening at our Church as
+    we navigate the impact of the coronavirus (COVID-19) in our community.\n\nWe have
+    decided to temporarily suspend activities in our church through March 22, 2020.
+    This decision from our church leadership stems from an abundance of caution and
+    a deep concern for the well-being of our community. \n\nWe will instead be having
+    ”Drive in Church” service on Sunday at 10am to 11. Where you can stay right in
+    your car and enjoy an outdoor service. You will be able to tune your FM radio
+    in so you can hear it. \n\nPlease make plans to join us for this fun and unique
+    way to experience church together.\n\nThere will also be many streaming opportunities.
+    Make sure to follow out Facebook for more info. \n\nWe will evaluate this decision
+    early next week. Please know that your families will continue to be in our prayers
+    as we navigate these circumstances together.\n\n    As we share information via
+    social media, please help spread the word and share it with your friends. Please
+    remain in prayer for everyone that is being affected, and we will keep each of
+    you informed as we move forward. |"
   title: Drive-in Church This Sunday at 10am
   actions: []
 - type: contentblock
