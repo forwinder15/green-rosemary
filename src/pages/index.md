@@ -42,26 +42,9 @@ sections:
   type: contentblock
   title: 'Service Times '
   section_id: Service
-  content: |-
-    # Sunday Morning
-
-    9:15 Bible Study
-
-    10:30 Worship
-
-    # Sunday Evening
-
-    6:00 Worship
-
-    # Wednesday Night
-
-    5:45 Dinner
-
-    6:15 Youth - 6:30 Prayer Meeting
-
-    7:30 Choir Practice
-
-    (*Childcare provided at all services)
+  content: "# Sunday Morning\n\n10:00 Am - 11 Am Drive in service. Please arrive a
+    few minutes early for a good spot. \n\nFor the protection of our members and guests
+    childcare will not be provided. "
   actions: []
   image: ''
 - type: postsblock
