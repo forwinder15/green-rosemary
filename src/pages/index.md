@@ -23,7 +23,7 @@ sections:
     We will evaluate this decision early next week. Please know that your families will continue to be in our prayers as we navigate these circumstances together.
 
     As we share information via social media, please help spread the word and share it with your friends. Please remain in prayer for everyone that is being affected, and we will keep each of you informed as we move forward.
-  title: Drive-in Church This Sunday at 10am
+  title: Drive-in Church Sunday Mornings at 10am
   actions: []
 - type: contentblock
   template: contentblock
