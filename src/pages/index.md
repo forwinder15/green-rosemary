@@ -10,16 +10,18 @@ sections:
 
     Dear Church Family,
 
+    We will still be having Drive-in service until further notice.
+
     We want to take a few minutes of your time to update you on what's happening at our Church as we navigate the impact of the coronavirus (COVID-19) in our community.
 
-    We have decided to temporarily suspend activities in our church **through April 10, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
+    We have decided to temporarily suspend activities in our church **through April 30, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
 
     There will also be many streaming opportunities. Make sure to follow out Facebook for more info.
 
-    We will evaluate this decision early next week. Please know that your families will continue to be in our prayers as we navigate these circumstances together.
+    We will re-evaluate every week until the situation changes. Please know that your families will continue to be in our prayers as we navigate these circumstances together.
 
     As we share information via social media, please help spread the word and share it with your friends. Please remain in prayer for everyone that is being affected, and we will keep each of you informed as we move forward.
-  title: Stay tuned for a new update
+  title: Drive In Church At 9AM
   actions: []
 - type: contentblock
   template: contentblock
