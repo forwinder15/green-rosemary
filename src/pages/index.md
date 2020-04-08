@@ -10,6 +10,8 @@ sections:
 
     Dear Church Family,
 
+    We are having a special time of communion on **good Friday**. JOin us through facebook live at 7pm and youtube live at 7:30pm. If you did not receive a communion cup and would like one please contact brother John at 727-251-1388.
+
     We will still be having Drive-in service until further notice.
 
     We want to take a few minutes of your time to update you on what's happening at our Church as we navigate the impact of the coronavirus (COVID-19) in our community.
