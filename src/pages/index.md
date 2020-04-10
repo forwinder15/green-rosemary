@@ -5,7 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: |-
+  content: |2-
+
+    <iframe width="806" height="473" src="[https://www.youtube.com/embed/3YvaC7WrhRA](https://www.youtube.com/embed/3YvaC7WrhRA "https://www.youtube.com/embed/3YvaC7WrhRA")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     ### **Coronavirus Update**
 
     Dear Church Family,
