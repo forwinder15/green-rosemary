@@ -9,15 +9,15 @@ subtitle: ''
 img_path: ''
 
 ---
-**Senior Pastor - Pete and Cindy Pharis**
+**Senior Pastor - Pete Pharis and his wife Cindy**
 
 ![](/images/pete.png)
 
-**Associate Pastor of Missions and Discipleship - John and Ashly Coker**
+**Associate Pastor of Missions and Discipleship - John Coker and his wife Ashly**
 
 ![](/images/family photo.jpg)
 
-**Student Minister - Seth and Morgan Sache**
+**Student Minister - Seth Sache and his wife Morgan** 
 
 ![](/images/seth.jpg)
 
