@@ -5,23 +5,23 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "## Join us for online communion \n\n{<iframe width=\"806\" height=\"473\"
-    src=\"[https://www.youtube.com/embed/3YvaC7WrhRA](https://www.youtube.com/embed/3YvaC7WrhRA
-    \"https://www.youtube.com/embed/3YvaC7WrhRA\")\" frameborder=\"0\" allow=\"accelerometer;
-    autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>}\n\n###
-    **Coronavirus Update**\n\nDear Church Family,\n\nWe will still be having Drive-in
-    service until further notice.\n\nWe want to take a few minutes of your time to
-    update you on what's happening at our Church as we navigate the impact of the
-    coronavirus (COVID-19) in our community.\n\nWe have decided to temporarily suspend
-    activities in our church **through April 30, 2020.** This decision from our church
-    leadership stems from an abundance of caution and a deep concern for the well-being
-    of our community.\n\nThere will also be many streaming opportunities. Make sure
-    to follow out Facebook for more info.\n\nWe will re-evaluate every week until
-    the situation changes. Please know that your families will continue to be in our
-    prayers as we navigate these circumstances together.\n\nAs we share information
-    via social media, please help spread the word and share it with your friends.
-    Please remain in prayer for everyone that is being affected, and we will keep
-    each of you informed as we move forward."
+  content: |2-
+
+    ### **Coronavirus Update**
+
+    Dear Church Family,
+
+    We will still be having Drive-in service until further notice.
+
+    We want to take a few minutes of your time to update you on what's happening at our Church as we navigate the impact of the coronavirus (COVID-19) in our community.
+
+    We have decided to temporarily suspend activities in our church **through April 30, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
+
+    There will also be many streaming opportunities. Make sure to follow out Facebook for more info.
+
+    We will re-evaluate every week until the situation changes. Please know that your families will continue to be in our prayers as we navigate these circumstances together.
+
+    As we share information via social media, please help spread the word and share it with your friends. Please remain in prayer for everyone that is being affected, and we will keep each of you informed as we move forward.
   title: Join Us for Easter drive-in church at 9am
   actions: []
 - type: contentblock
