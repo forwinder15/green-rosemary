@@ -5,10 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "## Join us for online communion \n\n<iframe width=\"806\" height=\"473\"
+  content: "## Join us for online communion \n\n{<iframe width=\"806\" height=\"473\"
     src=\"[https://www.youtube.com/embed/3YvaC7WrhRA](https://www.youtube.com/embed/3YvaC7WrhRA
     \"https://www.youtube.com/embed/3YvaC7WrhRA\")\" frameborder=\"0\" allow=\"accelerometer;
-    autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n###
+    autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>}\n\n###
     **Coronavirus Update**\n\nDear Church Family,\n\nWe will still be having Drive-in
     service until further notice.\n\nWe want to take a few minutes of your time to
     update you on what's happening at our Church as we navigate the impact of the
