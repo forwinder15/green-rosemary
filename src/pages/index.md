@@ -54,9 +54,12 @@ sections:
   type: contentblock
   title: 'Service Times '
   section_id: Service
-  content: "# Sunday Morning\n\n10:00 Am - 11 Am Drive in service. Please arrive a
-    few minutes early for a good spot. \n\nFor the protection of our members and guests
-    childcare will not be provided. "
+  content: |-
+    # Sunday Morning
+
+    9:00 Am - 10 Am Drive in service. Please arrive a few minutes early for a good spot.
+
+    For the protection of our members and guests childcare will not be provided.
   actions: []
   image: ''
 - type: postsblock
