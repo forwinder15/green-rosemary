@@ -5,8 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: |2-
-
+  content: |-
     ### **Coronavirus Update**
 
     Dear Church Family,
@@ -15,14 +14,14 @@ sections:
 
     We want to take a few minutes of your time to update you on what's happening at our Church as we navigate the impact of the coronavirus (COVID-19) in our community.
 
-    We have decided to temporarily suspend activities in our church **through April 30, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
+    We have decided to temporarily suspend activities in our church **through May 20, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
 
     There will also be many streaming opportunities. Make sure to follow out Facebook for more info.
 
     We will re-evaluate every week until the situation changes. Please know that your families will continue to be in our prayers as we navigate these circumstances together.
 
     As we share information via social media, please help spread the word and share it with your friends. Please remain in prayer for everyone that is being affected, and we will keep each of you informed as we move forward.
-  title: Join Us for Easter drive-in church at 9am
+  title: Join Us for drive-in church at 9am
   actions: []
 - type: contentblock
   template: contentblock
