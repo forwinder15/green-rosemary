@@ -13,11 +13,11 @@ img_path: ''
 
 ![](/images/pete.png)
 
-**Associate Pastor of Missions and Discipleship - John Coker and his wife Ashly**
+**Associate Pastor of Outreach and Discipleship - John Coker and his wife Ashly**
 
 ![](/images/family photo.jpg)
 
-**Student Minister - Seth Sache and his wife Morgan** 
+**Student Minister - Seth Sache and his wife Morgan**
 
 ![](/images/seth.jpg)
 
