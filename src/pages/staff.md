@@ -1,5 +1,5 @@
 ---
-title: 'Staff '
+title: 'Ministry Team  '
 menus:
   main:
     title: Staff
