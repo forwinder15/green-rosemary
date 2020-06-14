@@ -21,7 +21,7 @@ sections:
     We will re-evaluate every week until the situation changes. Please know that your families will continue to be in our prayers as we navigate these circumstances together.
 
     As we share information via social media, please help spread the word and share it with your friends. Please remain in prayer for everyone that is being affected, and we will keep each of you informed as we move forward.
-  title: Join Us for drive-in church at 9am
+  title: Please Take our member Survey
   actions: []
 - type: contentblock
   template: contentblock
