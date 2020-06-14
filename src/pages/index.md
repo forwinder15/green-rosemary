@@ -5,7 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: |-
+  content: |2-
+
+    # [FBC Worship Transition Survey](https://docs.google.com/forms/d/e/1FAIpQLSdydqtRrHK9Yx7Xh8FUqldv8eI5YJTZDE1PIJVrNcLntZ2IYA/viewform   "survey")
+
     ### **Coronavirus Update**
 
     Dear Church Family,
@@ -14,7 +17,7 @@ sections:
 
     We want to take a few minutes of your time to update you on what's happening at our Church as we navigate the impact of the coronavirus (COVID-19) in our community.
 
-    We have decided to temporarily suspend activities in our church **through May 20, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
+    We have decided to temporarily suspend activities in our church **through June 14, 2020.** This decision from our church leadership stems from an abundance of caution and a deep concern for the well-being of our community.
 
     There will also be many streaming opportunities. Make sure to follow out Facebook for more info.
 
