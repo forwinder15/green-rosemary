@@ -5,9 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: |2-
-
-    # [FBC Worship Transition Survey](https://docs.google.com/forms/d/e/1FAIpQLSdydqtRrHK9Yx7Xh8FUqldv8eI5YJTZDE1PIJVrNcLntZ2IYA/viewform   "survey")
+  content: |-
+    # [Click here to take our Survey](https://docs.google.com/forms/d/e/1FAIpQLSdydqtRrHK9Yx7Xh8FUqldv8eI5YJTZDE1PIJVrNcLntZ2IYA/viewform   "survey")
 
     ### **Coronavirus Update**
 
