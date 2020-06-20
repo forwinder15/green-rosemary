@@ -14,6 +14,8 @@ sections:
 
     With that there have been some dates and recommendations made to our body on the best way to go back in the church while protecting those most vulnerable in our congregation.
 
+    <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
+
     ### **We will return to services inside on July 5th.**
 
     1. **Service will remain at 9:00AM**
