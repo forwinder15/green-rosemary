@@ -1,7 +1,7 @@
 ---
 template: page
 title: Missions and Outreach
-subtitle: Acts 1:8
+subtitle: ''
 img_path: ''
 
 ---
