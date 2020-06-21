@@ -23,6 +23,8 @@ img_path: ''
 
 **Choir Director - Melinda Chemin**
 
+![](/images/screen-shot-2020-06-20-at-8-36-48-pm.png)
+
 **Secretary - Gwen Hardison**
 
 **Nursery - Kristel Reichart, Mary Kay Phelps & Amanda Phelps**
