@@ -5,16 +5,10 @@ subtitle: ''
 img_path: "/images/student.jpg"
 
 ---
-## **Sunday**
 
-##### 9:15 a.m. Youth connection group
+## **Wednesdays**
 
-##### 10:30 a.m. Worship Service  
-6 p.m. Discipleship
-
-## **Wednesday**
-
-##### 5:30 Dinner 6:15 p.m. Youth Worship
+##### 7:00 p.m. Youth Worship in the main Worship Center
 
 ### Find us on instagram @bronsonyouth
 
