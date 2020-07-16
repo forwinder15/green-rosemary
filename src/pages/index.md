@@ -33,7 +33,7 @@ sections:
 
     **Senior Ladies:** In the Worship Center Tuesdays 10:00AM **Contact Sonja Simmons for more info:** 352-538-0398
 
-    **Soul Sisters:** In the Worship Center Sundays 8:00am **Contact Candy Dean for more info:** 352-214-0015
+    **Soul Sisters:** In the Worship Center Sundays 10:00am **Contact Candy Dean for more info:** 352-214-0015
 
     **Fishermen:** In the Youth Room Sundays 8:00am **Contact David Bird for more info:** 352-572-2674
 
