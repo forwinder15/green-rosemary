@@ -33,13 +33,13 @@ sections:
 
     **Senior Ladies:** In the Worship Center Tuesdays 10:00AM **Contact Sonja Simmons for more info:** 352-538-0398
 
-    **Soul Sisters:** In the Worship Center Tuesdays 6:30pm **Contact Candy Dean for more info:** 352-214-0015
+    **Soul Sisters:** In the Worship Center Sundays 8:00am **Contact Candy Dean for more info:** 352-214-0015
 
-    **Fishermen:** In the Youth Room Tuesdays 6:30pm **Contact David Bird for more info:** 352-572-2674
+    **Fishermen:** In the Youth Room Sundays 8:00am **Contact David Bird for more info:** 352-572-2674
 
     **Senior Men:** In the Old Sanctuary Time to be announced. **Contact Steve Bird for more info:** 352-817-4711
 
-    **Adult 1:** In the Fellowship Hall - Time is To be announced. **Contact Cliff Norris for more info:** 352-538-7609
+    **Adult 1:** In the Fellowship Hall Sundays 8:00am . **Contact Cliff Norris for more info:** 352-538-7609
   title: Welcome to our Family
   actions: []
 - type: contentblock
