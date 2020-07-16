@@ -19,7 +19,7 @@ sections:
     ### **We will return to services inside on July 5th.**
 
     1. **Service will remain at 9:00AM**
-    2. **Childcare has been suspended**
+    2. **Childcare is provided for ages 3 - 10 (drop off before service in youthroom)**
     3. **Facebook live and drive-in FM radio will remain available.**
     4. **You must sit in the open areas provided to provide 6ft distance.**
     5. **Masks will be available but not required.**
