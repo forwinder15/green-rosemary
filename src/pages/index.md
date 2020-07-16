@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    ![](/images/church-1.jpg)
+    # 3 ways to Worship with us. Inside, Drive-in or Facebook Live all at 9:00 AM Sundays
 
     ## **As we make our way back in the church**
 
