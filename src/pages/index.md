@@ -6,24 +6,11 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    # 3 ways to Worship with us. Inside, Drive-in or Facebook Live all at 9:00 AM Sundays
+    # 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
 
-    ## **As we make our way back in the church**
-
-    A lot of thought and preparation has been put into how and when to go back in the worship center. Our COVID committee was formed to help us make informed decisions. With county, city, health department and schools represented we knew they would know what is safest and best for our church.
-
-    With that there have been some dates and recommendations made to our body on the best way to go back in the church while protecting those most vulnerable in our congregation.
+    ## We are now live on wednesday nights at 6:30 on [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
-
-    ### **We will return to services inside on July 5th.**
-
-    1. **Service will remain at 9:00AM**
-    2. **Childcare is provided for ages 3 - 10 (drop off before service in youthroom)**
-    3. **Facebook live and drive-in FM radio will remain available.**
-    4. **You must sit in the open areas provided to provide 6ft distance.**
-    5. **Masks will be available but not required.**
-    6. **If you have had symptoms or have been around someone with symptoms we ask you to please take advantage of our online service or continue to worship from your car via FM 87.9FM**
 
     ## **Sunday groups meeting at different times.**
 
