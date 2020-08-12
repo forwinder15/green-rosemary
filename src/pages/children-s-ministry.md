@@ -2,7 +2,7 @@
 template: page
 title: Children's Ministry
 subtitle: Welcome to Bible Blvd
-img_path: "/images/61186467912__8f971387-1d95-45bd-b3af-8203fa0efd7a.JPG"
+img_path: "/images/screen-shot-2020-06-20-at-8-06-50-pm.png"
 
 ---
 We are so excited for everyone to see the hard work and donations of so many people to remodel our children’s area. I can’t wait for the kids to see it!
