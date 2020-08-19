@@ -24,7 +24,9 @@ sections:
     352-817-4711\n\n**Adult 1:** In the Fellowship Hall Sundays 8:00am . **Contact
     Cliff Norris for more info:** 352-538-7609"
   title: Welcome to our Family
-  actions: []
+  actions:
+  - label: Visit our Facebook
+    url: ''
 - type: contentblock
   template: contentblock
   title: Ministries
