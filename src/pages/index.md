@@ -71,11 +71,11 @@ sections:
   title: 'Service Times '
   section_id: Service
   content: |-
-    # Sunday Morning
+    ### Sunday Morning 9:00AM In person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
-    9:00 Am - 10 Am Drive in service. Please arrive a few minutes early for a good spot.
+    ### Wednesday nights at 6:30PM in person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
-    For the protection of our members and guests childcare will not be provided.
+    ### We are temporarily requiring facemasks for inside services.
   actions: []
   image: ''
 - type: postsblock
