@@ -26,6 +26,22 @@ sections:
     ### Wednesday nights at 6:30PM in person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
     ### We are temporarily requiring facemasks for inside services.
+
+    ## **Sunday groups meeting at different times.**
+
+    In order to keep 6 foot apart we are having our groups meet at different times and in larger rooms temporarily. We have suspended children’s groups at this time. Look for your groups new time and location below.
+
+    **The Lighthouse group:** In the lighthouse room Wednesday 6:30pm **Contact Danny Sprague for more info:** 352-221-4847
+
+    **Senior Ladies:** In the Worship Center Tuesdays 10:00AM **Contact Sonja Simmons for more info:** 352-538-0398
+
+    **Soul Sisters:** In the Worship Center Sundays 10:00am **Contact Candy Dean for more info:** 352-214-0015
+
+    **Fishermen:** In the Youth Room Sundays 8:00am **Contact David Bird for more info:** 352-572-2674
+
+    **Senior Men:** In the Old Sanctuary Time to be announced. **Contact Steve Bird for more info:** 352-817-4711
+
+    **Adult 1:** In the Fellowship Hall Sundays 8:00am . **Contact Cliff Norris for more info:** 352-538-7609
   actions: []
   image: ''
 - type: contentblock
