@@ -8,12 +8,12 @@ menus:
 template: page
 
 ---
-\##Wednesday Night Prayer Service August 19th
+## Wednesday Night Prayer Service August 19th
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjohn.coker.75%2Fvideos%2F3538968472820005%2F&show_text=false&width=734&appId=602903760200196&height=413" width="734" height="413" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
-## New here? Have a prayer request? Please fill out our [Online Tearout](https://forms.gle/QfEaNeL7ZdUZCxiN6)
+### New here? Have a prayer request? Please fill out our [Online Tearout](https://forms.gle/QfEaNeL7ZdUZCxiN6)
 
-\##Sunday Morning August 16th
+## Sunday Morning August 16th
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjohn.coker.75%2Fvideos%2F3528681930515326%2F&show_text=false&width=734&appId=602903760200196&height=413" width="734" height="413" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
