@@ -10,6 +10,8 @@ sections:
 
     ### Click the [Sermons](/sermons) tab to watch our latest Service.
 
+    <iframe src="[https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjohn.coker.75%2Fvideos%2F3549823721734480%2F&width=1280](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjohn.coker.75%2Fvideos%2F3549823721734480%2F&width=1280 "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjohn.coker.75%2Fvideos%2F3549823721734480%2F&width=1280")" width="1280" height="720" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
     ### New here? Have a prayer request? Please fill out our [Online Tearout](https://forms.gle/QfEaNeL7ZdUZCxiN6)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
