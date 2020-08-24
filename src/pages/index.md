@@ -5,20 +5,13 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: |-
-    ### 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
-
-    ![](/images/img_2343.PNG)
-
-    ### Click the [Sermons](/sermons) tab to watch our latest Service.
-
-    ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
-
-    [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6)
-
-    [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9)
-
-    <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
+  content: "### 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook
+    Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays\n\n![](/images/img_2343.PNG)\n\n###
+    Click the [Sermons](/sermons) tab to watch our latest Service.\n\n### New here?
+    Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)\n\n![](https://fbckcmo.org/images/banners/Meet%20the%20pastor.313307.png)\n\n###
+    Click here to fill out the form to [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6)
+    \n\n[Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9)\n\n<a href=\"/images/heartbeat.pdf\"
+    download=\"/images/heartbeat.pdf\">(Click here to download our latest Newsletter)</a>"
   title: Welcome to our Family
   actions: []
 - template: contentblock
