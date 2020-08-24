@@ -14,7 +14,9 @@ sections:
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
   title: Welcome to our Family
-  actions: []
+  actions:
+  - label: Facebook Live
+    url: https://www.facebook.com/groups/FBCBronson/
 - template: contentblock
   component: ContentBlock
   type: contentblock
