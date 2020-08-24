@@ -10,7 +10,9 @@ sections:
 
     ### Click the [Sermons](/sermons) tab to watch our latest Service.
 
-    ### New here? Have a prayer request? Please fill out our [Online Tearout](https://forms.gle/QfEaNeL7ZdUZCxiN6)
+    ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
+
+    ### Have a prayer request? Please fill out our [Online Tearout](https://forms.gle/QfEaNeL7ZdUZCxiN6)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
   title: Welcome to our Family
@@ -42,7 +44,9 @@ sections:
     **Senior Men:** In the Old Sanctuary Time to be announced. **Contact Steve Bird for more info:** 352-817-4711
 
     **Adult 1:** In the Fellowship Hall Sundays 8:00am . **Contact Cliff Norris for more info:** 352-538-7609
-  actions: []
+  actions:
+  - label: Join a Group
+    url: ''
   image: ''
 - type: contentblock
   template: contentblock
