@@ -12,6 +12,8 @@ sections:
 
     ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 
+    [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6)
+
     [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
