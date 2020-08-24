@@ -12,7 +12,7 @@ sections:
 
     ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 
-    ### Have a prayer request? Please fill out our [Online Tearout](https://forms.gle/QfEaNeL7ZdUZCxiN6)
+    [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
   title: Welcome to our Family
