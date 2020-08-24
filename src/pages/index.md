@@ -26,7 +26,7 @@ sections:
 
     ![](/images/img_2349.PNG)
 
-    <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
+    <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"><h3>Click here to download our latest Newsletter</h3></a>
   title: Welcome to our Family
   actions: []
 - template: contentblock
