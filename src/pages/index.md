@@ -12,19 +12,19 @@ sections:
 
     ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 
-    ![](https://images.squarespace-cdn.com/content/v1/5092a0fce4b08a6452e72fef/1540588725765-ULPMUP8QSK0MAYAWI5UW/ke17ZwdGBToddI8pDm48kNE8mmr2FrbOCv9huzO3YaQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnFSoTTXr4l9cW4exiqARP-cm1PcGh6Obr-_XP5BNbf7y-tQ2pZ89X9BQAoHY_mb5cw/Large-Recent.jpg)
+    ![](/images/img_2346.PNG)
 
     ### [Click here to watch](/sermons) our latest Service.
 
-    ![](https://fbckcmo.org/images/banners/Meet%20the%20pastor.313307.png)
+    ![](/images/img_2347.PNG)
 
     ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
 
-    ![](https://www.ciswealth.com/wp-content/uploads/2017/09/Prayer-Requests-1024x560.jpg)
+    ![](/images/img_2348.PNG)
 
     ### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
 
-    ![](https://o.b5z.net/i/u/10173978/i/Newsletter_Image.png)
+    ![](/images/img_2349.PNG)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf">(Click here to download our latest Newsletter)</a>
   title: Welcome to our Family
