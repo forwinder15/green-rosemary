@@ -17,4 +17,6 @@ template: page
 
 #### The Best way to connect with a group is to join one of our Sunday School classes during the 9:00AM hour on Sunday Mornings.
 
+### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
+
 #### Connect with a Welcome Team member at the Welcome center to find out more or call 352-486-2282.
