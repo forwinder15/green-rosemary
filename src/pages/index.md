@@ -16,15 +16,15 @@ sections:
 
       ### [Click here to watch](/sermons) our latest Service.
 
-      ![Meet the pastor](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367071/IMG_2347.png)
+      [![Meet the pastor](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367071/IMG_2347.png)](https://forms.gle/7D6uo3haBLhXf56L6)
 
       ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
 
-      ![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367061/IMG_2348.png)
+      [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367061/IMG_2348.png)](https://forms.gle/duinCZesEGRo8xDs9)
 
       ### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
 
-      ![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367066/IMG_2349.png)
+      [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367066/IMG_2349.png)](<a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"></a>)
 
       <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"><h3>Click here to download our latest Newsletter</h3></a>
     title: Welcome to our Family
