@@ -7,22 +7,18 @@ sections:
     component: HeroBlock
     content: |-
       ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
-
+      ***
+      ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
       ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png)
 
-      ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
-
+      ### [Click here to watch](/sermons) our latest Service.
       [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367068/IMG_2346.png)](/sermons)
 
-      ### [Click here to watch](/sermons) our latest Service.
-
+      ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
       [![Meet the pastor](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367071/IMG_2347.png)](https://forms.gle/7D6uo3haBLhXf56L6)
 
-      ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
-
+       ### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
       [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367061/IMG_2348.png)](https://forms.gle/duinCZesEGRo8xDs9)
-
-      ### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
 
       [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367066/IMG_2349.png)](<a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"></a>)
 
