@@ -1,17 +1,19 @@
 ---
 template: post
 title: Time
-subtitle: When Cindy and I want to go somewhere or spend some time together, we have
+subtitle:
+  When Cindy and I want to go somewhere or spend some time together, we have
   to work around our schedules.
 date: 2020-02-14T00:00:00-05:00
 thumb_img_path: "/images/time.jpeg"
-content_img_path: ''
-excerpt: When Cindy and I want to go somewhere or spend some time together, we have
+content_img_path: ""
+excerpt:
+  When Cindy and I want to go somewhere or spend some time together, we have
   to work around our schedules.
-canonical_url: ''
-author: ''
-
+canonical_url: ""
+author: ""
 ---
+
 This has been true for Valentine’s Day for a long time now. The Texas Music Educators Association had their annual meeting during the week that included Valentine’s Day. We always had to plan ahead, delay, or just skip it.
 
 Actually, I took half a day off Monday and took Cindy fishing. (If you can find a girl that will bait her own hook . . . even though Proverbs 31 doesn’t say so, You’ve found you an excellent woman, more precious than jewels.)

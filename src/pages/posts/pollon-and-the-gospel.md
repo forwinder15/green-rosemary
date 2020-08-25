@@ -1,18 +1,20 @@
 ---
 template: post
-title: 'Pollon and the Gospel '
-subtitle: " Last Sunday I noticed our first pollen storm of the year. You know that
+title: "Pollon and the Gospel "
+subtitle:
+  " Last Sunday I noticed our first pollen storm of the year. You know that
   yellow air that ends up everywhere, covering cars circling every puddle"
 date: 2020-01-26T00:00:00-05:00
 thumb_img_path: "/images/pollon.jpeg"
-content_img_path: ''
-excerpt: " Last Sunday I noticed our first pollen storm of the year. You know that
+content_img_path: ""
+excerpt:
+  " Last Sunday I noticed our first pollen storm of the year. You know that
   yellow air that ends up everywhere, covering cars circling every puddle"
-canonical_url: ''
+canonical_url: ""
 author: Pete Pharis
-
 ---
- I washed my truck and within a few minutes, you could see the tiny flecks of pollen landing and sticking on it. Not every grain of pollen produces a seed, most don't, but for every seed that grows into a tree, it takes a grain of pollen.
+
+I washed my truck and within a few minutes, you could see the tiny flecks of pollen landing and sticking on it. Not every grain of pollen produces a seed, most don't, but for every seed that grows into a tree, it takes a grain of pollen.
 
 The pollen is essential but it is still incomplete. It is only one component. The other is the seed while it is still in the flower. The seed awaits the pollen and together they produce a fertile seed that is capable of producing another pine tree.
 

@@ -1,11 +1,11 @@
 ---
 template: page
 title: Missions and Outreach
-subtitle: ''
-img_path: ''
-
+subtitle: ""
+img_path: ""
 ---
-![](/images/screen-shot-2020-06-20-at-8-21-41-pm.png)
+
+![acts](/images/screen-shot-2020-06-20-at-8-21-41-pm.png)
 
 Our Outreach is made up of three groups. We reach out Locally, National and world wide as we seek to make Jesus's name known.
 
@@ -27,6 +27,6 @@ _Geographical responsibility: The rest of the world_
 
 ### Our next Acts 1:8 Fellowship is on August 31st
 
-**Our very special guest speaker is:** Christa K. Lynn Survivor Leader, Anti-Trafficking Advocate, National Speaker 
+**Our very special guest speaker is:** Christa K. Lynn Survivor Leader, Anti-Trafficking Advocate, National Speaker
 
 Christa K. Lynn passionately stands beside survivors of trafficking as they overcome vulnerabilities, obstacles and injustices to build dream-worthy lives. She earned her master’s degree from Liberty University, is a licensed mental health counselor in the state of Florida, a certified clinical trauma professional and founded an organization providing direct services to adult trafficking survivors in southwest Florida. As a respected leader in the anti-trafficking movement, Christa is grateful to share her experience as a second-generation trafficking survivor with those who share her passion for seeing the lives of exploited children, teens and young adults changed.
