@@ -37,6 +37,8 @@ sections:
 
       ### We are temporarily requiring facemasks for inside services.
 
+      ***
+
       ## **Sunday groups meeting at different times.**
 
       **The Lighthouse group:** In the lighthouse room Wednesday 6:30pm **Contact Danny Sprague for more info:** 352-221-4847
