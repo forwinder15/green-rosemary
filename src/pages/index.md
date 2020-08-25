@@ -12,7 +12,7 @@ sections:
 
       ***
 
-      ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png)
+
 
       [![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
 
