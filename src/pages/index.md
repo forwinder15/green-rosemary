@@ -8,27 +8,21 @@ sections:
     content: |-
       ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
 
-      ***
+      ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png) 
 
-      ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
+      ***
 
       ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png)
 
-      ### [Click here to watch](/sermons) our latest Service.
+      [![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
 
-      [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367068/IMG_2346.png)](/sermons)
+      [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](/sermons)
 
-      ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
+      [![Meet the pastor](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372542/398F3C34-6ED2-447F-8DAF-2E6AEC79A8BA.png)](https://forms.gle/7D6uo3haBLhXf56L6)
 
-      [![Meet the pastor](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367071/IMG_2347.png)](https://forms.gle/7D6uo3haBLhXf56L6)
+      [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
 
-      ### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
-
-      [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367061/IMG_2348.png)](https://forms.gle/duinCZesEGRo8xDs9)
-
-      [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367066/IMG_2349.png)](/images/heartbeat.pdf)
-
-      <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"><h3>Click here to download our latest Newsletter</h3></a>
+      [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372529/1868F6AE-3E24-4421-B9FD-C60AB0D0064F.png)](/images/heartbeat.pdf)
     title: Welcome to our Family
     actions: []
   - template: contentblock
