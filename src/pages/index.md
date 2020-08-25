@@ -12,7 +12,7 @@ sections:
       <p style="text-align: center;"><h3>New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)</h3></p>
       ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png)
 
-      ### [Click here to watch](/sermons) our latest Service.
+      ### Need some encouragement? Listen to our [latest Service.](/sermons)
       [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367068/IMG_2346.png)](/sermons)
 
       ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
@@ -23,7 +23,6 @@ sections:
 
       [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367066/IMG_2349.png)](/images/heartbeat.pdf)
 
-      <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"><h3>Click here to download our latest Newsletter</h3></a>
     title: Welcome to our Family
     actions: []
   - template: contentblock
