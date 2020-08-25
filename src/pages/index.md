@@ -6,25 +6,25 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    ### 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
+    ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
 
-    ![](/images/img_2343.PNG)
+    ![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png)
 
     ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 
-    ![](/images/img_2346.PNG)
+    ![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367068/IMG_2346.png)
 
     ### [Click here to watch](/sermons) our latest Service.
 
-    ![](/images/img_2347.PNG)
+    ![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367071/IMG_2347.png)
 
     ### Register for [Meet the Pastor](https://forms.gle/7D6uo3haBLhXf56L6) today
 
-    ![](/images/img_2348.PNG)
+    ![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367061/IMG_2348.png)
 
     ### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
 
-    ![](/images/img_2349.PNG)
+    ![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367066/IMG_2349.png)
 
     <a href="/images/heartbeat.pdf" download="/images/heartbeat.pdf"><h3>Click here to download our latest Newsletter</h3></a>
   title: Welcome to our Family
