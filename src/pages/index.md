@@ -9,7 +9,7 @@ sections:
     content: |-
       ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
       ***
-      <p style="text-align: center;"><h3>New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)</h3></p>
+      ###New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
       ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598367752/IMG_2343.png)
 
       ### Need some encouragement? Listen to our [latest Service.](/sermons)
