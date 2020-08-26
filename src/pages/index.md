@@ -22,6 +22,8 @@ sections:
 
       [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
 
+      [![Join a group](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372537/1873AFBD-D9E2-4089-8C6E-068388C28BB3.png)](https://forms.gle/y5x9F4mQ7MPHGUCB6)
+
       [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372529/1868F6AE-3E24-4421-B9FD-C60AB0D0064F.png)](/images/heartbeat.pdf)
     title: Welcome to our Family
     actions: []
