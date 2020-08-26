@@ -49,7 +49,7 @@ sections:
   title: Ministries
   section_id: 'Ministries '
   actions:
-  - label: Missions and Outreach
+  - label: Outreach
     url: "/missions-and-outreach"
   - label: Student Ministry
     url: "/student-ministry"
