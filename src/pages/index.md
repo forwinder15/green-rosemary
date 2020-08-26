@@ -25,7 +25,7 @@ sections:
 
     ### Wednesday nights at 6:30PM in person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
-    ### We are temporarily requiring facemasks for inside services.
+    #### * We are temporarily requiring facemasks for inside services.
 
     ***
 
