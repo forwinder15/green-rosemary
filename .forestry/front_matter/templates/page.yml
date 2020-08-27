@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/a-simple-matter-of-faith.md
 - src/pages/about.md
 - src/pages/children-s-clothes-closet.md
 - src/pages/music-ministry.md
