@@ -8,6 +8,8 @@ sections:
     content: |-
       ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
 
+      ####Masks are no longer mandatory. They will be available but are optional. 
+
       ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598404492/church_sunset.jpg)
 
       ***
@@ -37,7 +39,6 @@ sections:
 
       ### Wednesday nights at 6:30PM in person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
-      #### * We are temporarily requiring facemasks for inside services.
 
       ***
 
