@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 9:00 AM Sundays
+    ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 10:30 AM Sundays
 
     ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598404492/church_sunset.jpg)
 
