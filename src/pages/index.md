@@ -32,27 +32,16 @@ sections:
   type: contentblock
   title: 'Service Times '
   section_id: Service
-  content: |-
-    ### Sunday Morning 9:00AM In person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
-
-    ### Wednesday nights at 6:30PM in person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)
-
-
-    ***
-
-    ## **Sunday groups meeting at different times.**
-
-    **The Lighthouse group:** In the lighthouse room Wednesday 6:30pm **Contact Danny Sprague for more info:** 352-221-4847
-
-    **Senior Ladies:** In the Worship Center Tuesdays 10:00AM **Contact Sonja Simmons for more info:** 352-538-0398
-
-    **Soul Sisters:** In the Fellowship Hall Sundays 10:00am **Contact Candy Dean for more info:** 352-214-0015
-
-    **Fishermen:** In the Youth Room Sundays 8:00am **Contact David Bird for more info:** 352-572-2674
-
-    **Senior Men:** In the Old Sanctuary Time to be announced. **Contact Steve Bird for more info:** 352-817-4711
-
-    **Adult 1:** In the Fellowship Hall Sundays 8:00am . **Contact Cliff Norris for more info:** 352-538-7609
+  content: "### Sunday Morning 10:30 AM In person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)\n\n###
+    Sunday Morning 9:15 AM Bible Study Groups\n\n### Wednesday nights at 6:30 PM in
+    person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)\n\n***\n\n##
+    **Sunday Bible Study Groups** \n\n**The Lighthouse group:** Meeting in E3 **Contact
+    Danny Sprague for more info:** 352-221-4847\n\n**Senior Ladies:** Meeting in the
+    Youth room **Contact Sonja Simmons for more info:** 352-538-0398\n\n**Soul Sisters:**
+    Meeting in L3 **Contact Candy Dean for more info:** 352-214-0015\n\n**Fishermen:**
+    Meeting in the Lighthouse Room **Contact David Bird for more info:** 352-572-2674\n\n**Senior
+    Men:** Meeting in WC1. **Contact Steve Bird for more info:** 352-817-4711\n\n**Adult
+    1:** Meeting in L8. **Contact Cliff Norris for more info:** 352-538-7609"
   actions: []
   image: ''
 - type: contentblock
