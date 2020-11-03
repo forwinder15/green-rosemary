@@ -23,7 +23,7 @@ Established in 1885, the First Baptist Church of Bronson, Florida has faithfully
 
 ### About Jesus Christ
 
-##### Jesus Christ is the eternal Son of God. He is coequal with the Father. In His incarnation as Jesus Christ, He was conceived of the Holy Spirit and born of the virgin Mary. Jesus lived a sinless human life and offered Himself as the perfect sacrifice for the sins of all by dying on a cross. He arose from the dead after three days to demonstrate His power over sin and death. He ascended to Heaven's glory and will return to earth to reign as King of kings and Lord of lords. He now dwells in all believers as the living and ever present Lord.
+##### Jesus Christ is the eternal Son of God. He is co-equal with the Father. In His incarnation as Jesus Christ, He was conceived of the Holy Spirit and born of the virgin Mary. Jesus lived a sinless human life and offered Himself as the perfect sacrifice for the sins of all by dying on a cross. He arose from the dead after three days to demonstrate His power over sin and death. He ascended to Heaven's glory and will return to earth to reign as King of kings and Lord of lords. He now dwells in all believers as the living and ever-present Lord.
 
 ###### [Matthew 1:22-23](http://www.biblegateway.com/passage/?search=Matthew+1%3A22-23&version=ESV&interface=print), [John 1:1-5](http://www.biblegateway.com/passage/?search=John+1%3A1-5&version=ESV&interface=print), [14:10-30](http://www.biblegateway.com/passage/?search=John+14%3A10-30&version=ESV&interface=print), [Acts 1:9-11](http://www.biblegateway.com/passage/?search=Acts+1%3A9-11&version=ESV&interface=print), [Romans 1:3-4](http://www.biblegateway.com/passage/?search=Romans+1%3A3-4&version=ESV&interface=print), [1 Corinthians 15:3-4](http://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-4&version=ESV&interface=print), [Colossians 1:15-18](http://www.biblegateway.com/passage/?search=Colossians+1%3A15-18&version=ESV&interface=print), [1 Timothy 6:14-15](http://www.biblegateway.com/passage/?search=1+Timothy+6%3A14-15&version=ESV&interface=print), [Titus 2:13](http://www.biblegateway.com/passage/?search=Titus+2%3A13&version=ESV&interface=print), [Hebrews 4:14-15](http://www.biblegateway.com/passage/?search=Hebrews+4%3A14-15&version=ESV&interface=print)
 
@@ -35,7 +35,7 @@ Established in 1885, the First Baptist Church of Bronson, Florida has faithfully
 
 ### About Mankind
 
-##### Man is made in the spiritual image of God, to be like Him in character. Man is the supreme object of God's creation. By free choice, man sinned against God and brought sin into the Human Race. Although mankind has tremendous potential for good, we are marred by an attitude of disobedience toward God called "sin." This attitude separates us from God. Only the grace of God can bring man into his holy fellowship and enable man to fulfill the creative purpose of God.
+##### Man is made in the spiritual image of God, to be like Him in character. Man is the supreme object of God's creation. By free choice, man sinned against God and brought sin into the Human Race. Although mankind has tremendous potential for good, we are marred by an attitude of disobedience toward God called "sin." This attitude separates us from God. Only the grace of God can bring man into His holy fellowship and enable man to fulfill the creative purpose of God.
 
 ###### [Genesis 1:27](http://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=ESV&interface=print), [Psalm 8:3-6](http://www.biblegateway.com/passage/?search=Psalm+8%3A3-6&version=ESV&interface=print), [Isaiah 53:6](http://www.biblegateway.com/passage/?search=Isaiah+53%3A6&version=ESV&interface=print), [59:1-2](http://www.biblegateway.com/passage/?search=Isaiah+59%3A1-2&version=ESV&interface=print), [Romans 3:2](http://www.biblegateway.com/passage/?search=Romans+3%3A2&version=ESV&interface=print)
 
@@ -47,7 +47,7 @@ Established in 1885, the First Baptist Church of Bronson, Florida has faithfully
 
 ### About Eternity
 
-##### We all were created to exist forever. We will either exist eternally separated from God by our sin, or in union with God through forgiveness and salvation. The place of eternal separation from God is called Hell. Heaven is the place of eternal union and eternal life with God.
+##### We all were created to exist forever. We will either exist eternally separated from God by our sin or in union with God through forgiveness and salvation. The place of eternal separation from God is called Hell. Heaven is the place of eternal union and eternal life with God.
 
 ###### [Matthew 25:41](http://www.biblegateway.com/passage/?search=Matthew+25%3A41&version=ESV&interface=print), [John 3:16](http://www.biblegateway.com/passage/?search=John+3%3A16&version=ESV&interface=print), [Romans 6:23](http://www.biblegateway.com/passage/?search=Romans+6%3A23&version=ESV&interface=print), [Revelation 20:15 ](http://www.biblegateway.com/passage/?search=Revelation+20%3A15&version=ESV&interface=print)(hell), [Revelation 21:27](http://www.biblegateway.com/passage/?search=Revelation+21%3A27&version=ESV&interface=print)
 
