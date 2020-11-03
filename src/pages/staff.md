@@ -25,6 +25,8 @@ img_path: ''
 
 ![](/images/screen-shot-2020-06-20-at-8-36-48-pm.png)
 
+**Chairman of Deacons: Cliff Norris**
+
 **Secretary - Gwen Hardison**
 
 **Nursery - Kristel Reichart, Mary Kay Phelps & Amanda Phelps**
