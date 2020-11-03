@@ -2,7 +2,7 @@
 template: page
 title: Children's Ministry
 subtitle: Welcome to Bible Blvd
-img_path: "/images/screen-shot-2020-06-20-at-8-06-50-pm.png"
+img_path: ''
 
 ---
 ### **9:15 am Sunday Morning - Drama group**
@@ -18,3 +18,5 @@ It's called Bible Blvd because we have created storefronts for many of the most 
 **Special Thanks to** Jeannie McCrickard, Cindy Pharis, Duncan, and Edwina Azbell, Jennifer and Sidney Bray, Mac Huber, Gwen Hardison, Dane Shewey, Madi and JT Coker, Ted and Ned Rhude, Rex Shevitski, Frank McKoy, Mike, and Carrie Neller and Jerry Harvey.
 
 Children's activities are temporarily suspended due to COVID 19
+
+![](/images/screen-shot-2020-06-20-at-8-06-50-pm.png)
