@@ -5,10 +5,9 @@ subtitle: ''
 img_path: "/images/student.jpg"
 
 ---
-
 ## **Wednesdays**
 
-##### 7:00 p.m. Youth Worship in the main Worship Center
+##### 6:15 p.m. Youth Worship in the old sanctuary. 
 
 ### Find us on instagram @bronsonyouth
 
