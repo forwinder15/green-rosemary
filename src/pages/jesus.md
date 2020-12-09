@@ -1,13 +1,13 @@
 ---
 template: page
-title: 'A Simple matter of Faith '
+title: gospel
 subtitle: What do you think it takes for someone to get to heaven?
 img_path: ''
 
 ---
- Is it luck? Good deeds? Nothing at all? Or is there something more? The Bible has the real answer to this question. **It’s a matter of FAITH.**
+Is it luck? Good deeds? Nothing at all? Or is there something more? The Bible has the real answer to this question. **It’s a matter of FAITH.**
 
-**F stands for FORGIVENESS..** We cannot have eternal life without God’s forgiveness. Ephesians 1:7a says, “In Him (Jesus Christ) we have redemption through his blood, the forgiveness of sins.”
+**F stands for FORGIVENESS.** We cannot have eternal life without God’s forgiveness. Ephesians 1:7a says, “In Him (Jesus Christ) we have redemption through his blood, the forgiveness of sins.”
 
 **A is for AVAILABLE.** Forgiveness is available for all. John 3:16 says, “For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life.” But forgiveness is not automatic. “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven,” says Matthew 7:21a.
 
@@ -30,4 +30,4 @@ Lord Jesus, I know I am a sinner and have displeased You in many ways. I believe
 * In your church, get involved in Sunday School and Bible study.
 * Begin a daily personal worship experience with God where you study the Bible and pray.
 
-[We’d love to hear from you!](https://docs.google.com/forms/d/e/1FAIpQLScLdD0Iwci8h1s2uWkoXEzws426xCEVQ-a2EU1Pu5bTZOjMCw/viewform?usp=send_form) Please feel free to ask us any questions you have about becoming a Christian, or tell us about your decision to follow Jesus Christ. Please let us know how we can serve you
+[We’d love to hear from you!](https://docs.google.com/forms/d/e/1FAIpQLScLdD0Iwci8h1s2uWkoXEzws426xCEVQ-a2EU1Pu5bTZOjMCw/viewform?usp=send_form) Please feel free to ask us any questions you have about becoming a Christian or tell us about your decision to follow Jesus Christ. Please let us know how we can serve you
