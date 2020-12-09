@@ -5,10 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "##             Merry Christmas \U0001F384\n\n## 3 ways to Worship with
-    us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/)
+  content: "## Merry Christmas \U0001F384\n\n## 3 ways to Worship with us. Inside,
+    Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/)
     all at 10:30 AM Sundays\n\n![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598404492/church_sunset.jpg)\n\n***\n\n[![connect
-    form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)\n\n[![Recent
+    form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)\n\n[![](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)\n\n[![Recent
     Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](/sermons)\n\n[![Meet
     the pastor](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372542/398F3C34-6ED2-447F-8DAF-2E6AEC79A8BA.png)](https://forms.gle/7D6uo3haBLhXf56L6)\n\n[![Prayer
     requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)\n\n[![Join
