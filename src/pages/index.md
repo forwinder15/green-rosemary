@@ -5,14 +5,28 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "## Merry Christmas \U0001F384\n\n## 3 ways to Worship with us. Inside,
-    Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/)
-    all at 10:30 AM Sundays\n\n![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598404492/church_sunset.jpg)\n\n***\n\n[![connect
-    form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)\n\n[![](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)\n\n[![Recent
-    Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](/sermons)\n\n![](https://res.cloudinary.com/dsmtzkexd/image/upload/v1609686398/IMG_3026.png)\n\n[![Prayer
-    requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)\n\n[![Join
-    a group](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372537/1873AFBD-D9E2-4089-8C6E-068388C28BB3.png)](https://forms.gle/y5x9F4mQ7MPHGUCB6)\n\n[![become
-    a champion](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598887453/champ.png)](https://forms.gle/3XZjDgMPChKDLGPn9)\n\n[![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372529/1868F6AE-3E24-4421-B9FD-C60AB0D0064F.png)](/images/heartbeat.pdf)"
+  content: |-
+    ## 3 ways to Worship with us. Inside, Drive-in on 87.9fm or [Facebook Live](https://www.facebook.com/groups/FBCBronson/) all at 10:30 AM Sundays
+
+    ![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598404492/church_sunset.jpg)
+
+    ***
+
+    [![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
+
+    [![](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
+
+    [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](/sermons)
+
+    ![](https://res.cloudinary.com/dsmtzkexd/image/upload/v1609686398/IMG_3026.png)
+
+    [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
+
+    [![Join a group](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372537/1873AFBD-D9E2-4089-8C6E-068388C28BB3.png)](https://forms.gle/y5x9F4mQ7MPHGUCB6)
+
+    [![become a champion](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598887453/champ.png)](https://forms.gle/3XZjDgMPChKDLGPn9)
+
+    [![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372529/1868F6AE-3E24-4421-B9FD-C60AB0D0064F.png)](/images/heartbeat.pdf)
   title: Welcome to our Family
   actions: []
 - template: contentblock
