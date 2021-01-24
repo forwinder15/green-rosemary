@@ -7,17 +7,17 @@ menus:
     title: Get Connected
     weight: 2
 template: page
-
 ---
-#### **Our church’s mission is to connect people to Jesus.** Being a part of a faith community provides a wonderful opportunity for this to happen.
 
-#### In our groups we learn God’s Word, care for each other, praise God for who He is and what He’s done, and pray to God for His help and guidance.
+#### **Our church’s mission is to connect people to Jesus.** Being a part of a faith community provides a wonderful opportunity for this to happen
 
-#### It’s our hope, that through the meaningful relationships formed in our groups, everyone can grow in their faith.
+#### In our groups we learn God’s Word, care for each other, praise God for who He is and what He’s done, and pray to God for His help and guidance
 
-#### The Best way to connect with a group is to join one of our Sunday School classes during the 9:15 AM hour on Sunday Mornings.
+#### It’s our hope, that through the meaningful relationships formed in our groups, everyone can grow in their faith
 
-## **Sunday Bible Study Groups** 
+#### The Best way to connect with a group is to join one of our Sunday School classes during the 9:15 AM hour on Sunday Mornings
+
+## **Sunday Bible Study Groups**
 
 **The Lighthouse group:** Meeting in E3 **Contact Danny Sprague for more info:** 352-221-4847
 
@@ -30,6 +30,8 @@ template: page
 **Senior Men:** Meeting in WC1. **Contact Steve Bird for more info:** 352-817-4711
 
 **Adult 1:** Meeting in L8. **Contact Cliff Norris for more info:** 352-538-7609
+
+[![Join a group](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372537/1873AFBD-D9E2-4089-8C6E-068388C28BB3.png)](https://forms.gle/y5x9F4mQ7MPHGUCB6)
 
 ### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 

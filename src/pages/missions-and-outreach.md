@@ -1,10 +1,10 @@
 ---
 template: page
 title: Missions and Outreach
-subtitle: ''
-img_path: ''
-
+subtitle: ""
+img_path: ""
 ---
+
 ![acts](/images/screen-shot-2020-06-20-at-8-21-41-pm.png)
 
 Our Outreach is made up of three groups. We reach out Locally, National, and worldwide as we seek to make Jesus's name known.
@@ -25,4 +25,6 @@ _Geographical responsibility: The United States_
 
 _Geographical responsibility: The rest of the world_
 
-### Our next Acts 1:8 Fellowship is on November 15th at 6 pm
+### Acts 1:8 Fellowship is the third Sunday night at 6pm
+
+[![become a champion](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598887453/champ.png)](https://forms.gle/3XZjDgMPChKDLGPn9)
