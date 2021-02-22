@@ -8,7 +8,7 @@ menus:
 template: page
 
 ---
-## Guest Speaker Mike Neller 
+## Guest Speaker Mike Neller
 
 ## January 24th, 2021
 
