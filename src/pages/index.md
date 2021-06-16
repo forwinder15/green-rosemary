@@ -5,9 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "## Come and worship Jesus with us at 10:30 am Sundays\n\n##  Join our
-    [Facebook](https://www.facebook.com/groups/FBCBronson/) group for upcoming events
-    or see our calendar below \n\n![You are welcome](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598404492/church_sunset.jpg)\n\n***\n\n[![connect
+  content: "## Come and worship Jesus with us at 10:30 am Sundays\n\n## Join our [Facebook](https://www.facebook.com/groups/FBCBronson/)
+    group \n\n# Register For VBS \U0001F449 [Here](HTTPS://kideventpro.lifeway.com/myEvent/?id=60095)\n\n![](/images/img_0330.PNG)\n\n***\n\n[![connect
     form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)\n\n[![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)\n\n[![Recent
     Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)\n\n[![Prayer
     requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)\n\n[![Newsletter](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372529/1868F6AE-3E24-4421-B9FD-C60AB0D0064F.png)](/images/heartbeat.pdf)"
