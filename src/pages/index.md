@@ -55,8 +55,6 @@ sections:
     url: "/music-ministry"
   - label: 'Nursery '
     url: "/nursery"
-  - label: Vacation Bible School
-    url: "/vacation-bible-school"
   - label: Men's Ministry
     url: "/men-s-ministry"
   - label: 'Ladies Ministry '
@@ -72,7 +70,7 @@ sections:
   - label: View Blog
     url: blog/index.html
   component: PostsBlock
-  num_posts_displayed: 4
+  num_posts_displayed: 2
 menus:
   main:
     title: Home
