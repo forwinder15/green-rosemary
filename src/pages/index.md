@@ -27,11 +27,11 @@ sections:
   title: 'Service Times '
   section_id: Service
   content: |-
-    ### Sunday Morning 10:30 AM In person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
+    ### Sunday Morning 10:30 AM In-person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
     ### Sunday Morning 9:15 AM Bible Study Groups
 
-    ### Wednesday nights at 6:30 PM in person and on [Facebook](https://www.facebook.com/groups/FBCBronson/)
+    ### Wednesday Night Dinner 5:30, Pioneer Clubs and Youth 6:00 PM Adults 6:30 PM
 
     ***
 
@@ -39,11 +39,11 @@ sections:
 
     **The Lighthouse group:** Meeting in the lighthouse room **Contact Danny Sprague for more info:** 352-221-4847
 
-    **Senior Ladies:** Meeting in the Youth room **Contact Sonja Simmons for more info:** 352-538-0398
+    **Senior Ladies:** Meeting in E3 **Contact Sonja Simmons for more info:** 352-538-0398
 
     **Soul Sisters:** Meeting in L3 **Contact Candy Dean for more info:** 352-214-0015
 
-    **Fishermen:** Meeting in the E3 **Contact David Bird for more info:** 352-572-2674
+    **Fishermen:** Meeting in the L4 **Contact David Bird for more info:** 352-572-2674
 
     **Senior Men:** Meeting in WC1. **Contact Steve Bird for more info:** 352-817-4711
 
