@@ -26,28 +26,16 @@ sections:
   type: contentblock
   title: 'Service Times '
   section_id: Service
-  content: |-
-    ### Sunday Morning 10:30 AM In-person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
-
-    ### Sunday Morning 9:15 AM Bible Study Groups
-
-    ### Wednesday Night Dinner 5:30, Pioneer Clubs and Youth 6:00 PM Adults 6:30 PM
-
-    ***
-
-    ## **Sunday Bible Study Groups**
-
-    **The Lighthouse group:** Meeting in the lighthouse room **Contact Danny Sprague for more info:** 352-221-4847
-
-    **Senior Ladies:** Meeting in E3 **Contact Sonja Simmons for more info:** 352-538-0398
-
-    **Soul Sisters:** Meeting in L3 **Contact Candy Dean for more info:** 352-214-0015
-
-    **Fishermen:** Meeting in the L4 **Contact David Bird for more info:** 352-572-2674
-
-    **Senior Men:** Meeting in WC1. **Contact Steve Bird for more info:** 352-817-4711
-
-    **Adult 1:** Meeting in L8. **Contact Cliff Norris for more info:** 352-538-7609
+  content: "### Sunday Morning 10:30 AM In-person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)\n\n###
+    Sunday Morning 9:15 AM Bible Study Groups\n\n### Wednesday Night Dinner 5:30,
+    Pioneer Clubs and Youth 6:00 PM Adults 6:30 PM\n\n***\n\n## **Sunday Bible Study
+    Groups** \n\n## **9:30 AM**\n\n**The Lighthouse group:** Meeting in the lighthouse
+    room **Contact Danny Sprague for more info:** 352-221-4847\n\n**Senior Ladies:**
+    Meeting in E3 **Contact Sonja Simmons for more info:** 352-538-0398\n\n**Soul
+    Sisters:** Meeting in L3 **Contact Candy Dean for more info:** 352-214-0015\n\n**Fishermen:**
+    Meeting in the L4 **Contact David Bird for more info:** 352-572-2674\n\n**Senior
+    Men:** Meeting in WC1. **Contact Steve Bird for more info:** 352-817-4711\n\n**Adult
+    1:** Meeting in L8. **Contact Cliff Norris for more info:** 352-538-7609"
   actions: []
   image: ''
 - type: contentblock
