@@ -44,9 +44,9 @@ sections:
 
     ### Dinner: 5:30
 
-    ### Pioneer Clubs (Pre-k - 5th): 6:00
+    ### [Pioneer Clubs (Pre-k - 5th): 6:00](/children-s-ministry/)
 
-    ### Eagle Wings Youth (6th -12th): 6:00
+    ### [Eagle Wings Youth (6th -12th): 6:00](/student-ministry)
   actions: []
   image: ''
 - type: contentblock
