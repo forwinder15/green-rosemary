@@ -2,11 +2,9 @@
 template: page
 title: Children's Ministry
 subtitle: Partnering with parents to develop kids’ faith.
-img_path: "/images/pc_infopage_header.png"
+img_path: "/images/img_0804.JPG"
 
 ---
-![](/images/img_0804.JPG)
-
 ## Bronson Kids is preparing kids for the road ahead.
 
 Your child will learn that God loves them, they can trust him no matter what, and they should love others as Jesus loves them.
