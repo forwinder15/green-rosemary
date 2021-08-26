@@ -54,6 +54,8 @@ sections:
   title: Ministries
   section_id: 'Ministries '
   actions:
+  - label: Celebrate Recovery
+    url: "/cr"
   - label: Outreach
     url: "/missions-and-outreach"
   - label: Student Ministry
@@ -64,10 +66,6 @@ sections:
     url: "/children-s-clothes-closet"
   - label: 'Nursery '
     url: "/nursery"
-  - label: Men's Ministry
-    url: "/men-s-ministry"
-  - label: 'Ladies Ministry '
-    url: "/ladies-ministry"
   component: ContentBlock
   content: ''
   image: ''
