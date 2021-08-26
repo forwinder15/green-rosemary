@@ -13,7 +13,7 @@ img_path: ''
 
 **Associate Pastor - John Coker**
 
-![](/images/family photo.jpg)
+![](/images/john.jpeg)
 
 Contact: 727-251-1388
 
