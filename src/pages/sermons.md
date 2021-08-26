@@ -8,7 +8,7 @@ menus:
 template: page
 
 ---
-## Dr. Jerry Nash
+## Glad you could join us! 
 
 #### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 
