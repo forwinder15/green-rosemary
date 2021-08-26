@@ -2,7 +2,7 @@
 template: page
 title: Celebrate Recovery
 subtitle: ''
-img_path: "/images/cr_web-logo_02.png"
+img_path: "/images/celebraterecoveryweb_new_600x273.jpeg"
 
 ---
 # Thursday's at 6 pm in the old sanctuary 
