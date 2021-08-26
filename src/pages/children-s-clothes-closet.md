@@ -9,4 +9,4 @@ img_path: ''
 
 Open Tuesdays 9am - 3pm for those in our community in need of clothes for kids.
 
-![](/images/screen-shot-2021-08-26-at-12-20-33-am.png)
+![](/images/screen-shot-2021-08-26-at-12-20-33-am.png)![](/images/clothes.png)![](/images/clothes-1.png)
