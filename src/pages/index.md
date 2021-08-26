@@ -55,7 +55,7 @@ sections:
   section_id: 'Ministries '
   actions:
   - label: Celebrate Recovery
-    url: "/cr"
+    url: "/celebrate-recovery"
   - label: Outreach
     url: "/missions-and-outreach"
   - label: Student Ministry
