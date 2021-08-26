@@ -5,13 +5,13 @@ subtitle: ''
 img_path: "/images/img_0056.PNG"
 
 ---
-> ### Elevation Youth is designed to help middle school and high school students grow their faith,their character, and their relationships.
+> ### Our Student ministry is designed to help middle school and high school students grow their faith, their character, and their relationships.
 
 ### **Wednesdays**
 
 ### 6:15 p.m. Youth Worship in the old sanctuary.
 
-Each week we meet on Wednesday night and have games fun worship and learning from grades 6 to 12. We also have lots of fun activities and places to serve and each year we make our way to summer camp. Your student will have a blast and grow as a believer. Get connected today! 
+Each week we meet on Wednesday night and have games, fun, worship, and learning from grades 6 to 12. We also have lots of fun activities and places to serve and each year we make our way to summer camp. Your student will have a blast and grow as a believer. Get connected today! 
 
 ## Meet Seth our Youth Minister
 
