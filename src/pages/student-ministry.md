@@ -11,11 +11,9 @@ img_path: "/images/img_0056.PNG"
 
 ### 6:15 p.m. Youth Worship in the old sanctuary.
 
-Each week we meet on Wednesday night and have games, fun, worship, and learning from grades 6 to 12. We also have lots of fun activities and places to serve and each year we make our way to summer camp. Your student will have a blast and grow as a believer. Get connected today! 
+Each week we meet on Wednesday night and have games, fun, worship, and learning from grades 6 to 12. We also have lots of fun activities and places to serve and each year we make our way to summer camp. Your student will have a blast and grow as a believer. Get connected today!
 
 ## Meet Seth our Youth Minister
-
-!\[video([https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain](https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain "https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain"))
 
 # Let's get social
 
