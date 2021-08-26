@@ -15,7 +15,7 @@ Bronson First Baptist is a place where everyone is welcome to worship, engage in
 
 Our services last around 1 hour and 15 Minutes —as short as 60 minutes and as long as 75 minutes. We sing songs Hymns and Contemporary Worship songs. The sermon lasts about 30 - 45 minutes and uses scripture to teach its points.
 
-## How Should I Dress? 
+## How Should I Dress?
 
 You'll see everything from jeans to suits at Now Church. Dress up or dress comfortably, and either way, you will fit in!
 
@@ -32,3 +32,5 @@ We do have an offering in our worship service, but it is for our members. If you
 **We are located just off Hwy 27 in Bronson**
 
 [460 S. Court Street Bronson, FL 32621](https://maps.google.com/maps?q=460+S.+Court+St+32621&ie=UTF-8&hq=&hnear=0x88e8edcd1e57570b:0xde89a46d8c5ce348,460+S+Court+St,+Bronson,+FL+32621&gl=us&ei=6zcPUN3RDJCO8wSj1ICoDA&ved=0CAkQ8gEwAA)
+
+## [Click Here To Fill Out Our Connect Form To Learn More](https://forms.gle/zPUrmBjtyry37HV29)
