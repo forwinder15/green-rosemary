@@ -15,7 +15,7 @@ Each week we meet on Wednesday night and have games, fun, worship, and learning 
 
 ## Meet Seth our Youth Minister
 
-[029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain](https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain "029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain")
+!\[video([https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain](https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain "https://share.icloud.com/photos/029QfKZfQhJ1YV0IxKjkxDPKA#Black_Mountain"))
 
 # Let's get social
 
