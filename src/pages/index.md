@@ -5,11 +5,17 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "## Come and worship Jesus with us!\n\n## \n\n***\n\n[![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)\n\n[![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)\n\n[![Recent
-    Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)\n\n[![Prayer
-    requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)\n\n[![Pioneer
-    Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)"
-  title: We Love Our Town!
+  content: |-
+    [![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
+
+    [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
+
+    [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)
+
+    [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
+
+    [![Pioneer Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)
+  title: Come and worship Jesus with us!
   actions: []
 - template: contentblock
   component: ContentBlock
