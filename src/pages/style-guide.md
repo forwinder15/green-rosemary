@@ -17,7 +17,7 @@ Our services last around 1 hour and 15 Minutes —as short as 60 minutes and as 
 
 ## How Should I Dress?
 
-You'll see everything from jeans to suits at Now Church. Dress up or dress comfortably, and either way, you will fit in!
+You'll see everything from jeans to suits at Bronson First Baptist. Dress up or dress comfortably, and either way, you will fit in!
 
 ## What do My Kids Do?
 
