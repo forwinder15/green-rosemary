@@ -5,11 +5,18 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "  \n![](/images/img_2343.PNG)\n\n[![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1629948515/IMG_0805.png)](/style-guide/)\n\n
-    \ \n[![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)\n\n[![Recent
-    Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)\n\n###
-    [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)To
-    Register for Pioneer Clubs click below\n\n[![Pioneer Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)"
+  content: |-
+    ![](/images/img_2343.PNG)
+
+    [![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1629948515/IMG_0805.png)](/style-guide/)
+
+    [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
+
+    [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)
+
+    ### [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
+
+    [![Pioneer Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)
   title: ''
   actions: []
 - template: contentblock
