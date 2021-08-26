@@ -1,22 +1,28 @@
 ---
 template: page
 title: Children's Ministry
-subtitle: Welcome to Bible Blvd
-img_path: ''
+subtitle: Partnering with parents to develop kids’ faith.
+img_path: "/images/pc_infopage_header.png"
 
 ---
-### **9:15 am Sunday Morning - Drama group**
+![](/images/img_0804.JPG)
 
-### **10:30 am Sunday morning - Children's church**
+## Bronson Kids is preparing kids for the road ahead.
 
-### **6:15 pm Wednesday night group dinner provided** 
+Your child will learn that God loves them, they can trust him no matter what, and they should love others as Jesus loves them.
 
-We are so excited for everyone to see the hard work and donations of so many people to remodel our children’s area. I can’t wait for the kids to see it!
+![](/images/img_0802.JPG)
 
-It's called Bible Blvd because we have created storefronts for many of the most familiar bible characters. Such as Mary’s essential oils, Samson’s Gym, Adam's rib shack, Lydia’s fabrics and so many more. You will love to walk down and see all the detail that has been put into this project.
+## **Sunday Morning**
 
-**Special Thanks to** Jeannie McCrickard, Cindy Pharis, Duncan, and Edwina Azbell, Jennifer and Sidney Bray, Mac Huber, Gwen Hardison, Dane Shewey, Madi and JT Coker, Ted and Ned Rhude, Rex Shevitski, Frank McKoy, Mike, and Carrie Neller and Jerry Harvey.
+#### **9:15 am - Drama group k-5**
 
-Children's activities are temporarily suspended due to COVID 19
+#### **10:30 am Children's church** 
+
+## **Wednesday** 
+
+#### 5:30 Dinner 
+
+#### **6:15 pm - Pioneer clubs** 
 
 ![](/images/screen-shot-2020-06-20-at-8-06-50-pm.png)
