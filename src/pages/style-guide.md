@@ -3,11 +3,10 @@ title: WE'RE GLAD YOU'RE HERE
 subtitle: We'd love to help you plan a visit or take the next step.
 menus:
   main:
-    title: Directions
-    weight: 7
+    title: I'm New
+    weight: 2
 template: page
-img_path: ''
-
+img_path: ""
 ---
 
 **We are located just off Hwy 27 in Bronson**

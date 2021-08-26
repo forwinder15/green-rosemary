@@ -3,12 +3,12 @@ title: Recent Sermons
 subtitle: We want you here
 menus:
   main:
-    title: Sermons
-    weight: 2
+    title: Watch Online
+    weight: 4
 template: page
-
 ---
-## Glad you could join us!
+
+## Glad you could join us
 
 #### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 

@@ -5,7 +5,7 @@ img_path: "/images/biblestudy.jpeg"
 menus:
   main:
     title: Get Connected
-    weight: 2
+    weight: 3
 template: page
 ---
 
