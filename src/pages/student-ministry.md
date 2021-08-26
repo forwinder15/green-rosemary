@@ -15,7 +15,7 @@ Each week we meet on Wednesday night and have games, fun, worship, and learning 
 
 ## Meet Seth our Youth Minister
 
-![video](https://drive.google.com/file/d/1Zni3ZdknpPoIqenU5qwGTysYjC0cM7Js/view?usp=sharing)
+<a href="{https://drive.google.com/file/d/1Zni3ZdknpPoIqenU5qwGTysYjC0cM7Js/view?usp=sharing}" title="Link Title"></a>
 
 # Let's get social
 
