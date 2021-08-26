@@ -5,9 +5,14 @@ subtitle: ''
 img_path: "/images/img_0056.PNG"
 
 ---
-# **Wednesdays**
+> ### Elevation Youth is designed to help middle school and high school students grow their faith,  
+> their character, and their relationships.
 
-##### 6:15 p.m. Youth Worship in the old sanctuary.
+### **Wednesdays**
+
+### 6:15 p.m. Youth Worship in the old sanctuary.
+
+Each week we meet on Wednesday night and have games fun worship and learning from grades 6 to 12. 
 
 ## Meet Seth our Youth Minister 
 
