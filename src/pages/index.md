@@ -62,8 +62,6 @@ sections:
     url: "/children-s-ministry "
   - label: Children's Clothes Closet
     url: "/children-s-clothes-closet"
-  - label: Music Ministry
-    url: "/music-ministry"
   - label: 'Nursery '
     url: "/nursery"
   - label: Men's Ministry
