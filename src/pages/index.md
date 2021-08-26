@@ -32,35 +32,19 @@ sections:
   title: 'Service Times '
   section_id: Service
   content: |-
+    # Join us to Worship Jesus on Sundays
+
     ### Sunday Morning 10:30 AM In-person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
     ### Sunday Morning 9:15 AM Bible Study Groups
 
     ## **ALL New Wednesday Programs**
 
-    ## Dinner: 5:30
+    ### Dinner: 5:30
 
-    ## Pioneer Clubs (Pre-k - 5th): 6:00
+    ### Pioneer Clubs (Pre-k - 5th): 6:00
 
-    ## Eagle Wings Youth (6th -12th): 6:00
-
-    ***
-
-    ## **Sunday Bible Study Groups**
-
-    ## **9:15 AM**
-
-    **The Lighthouse group:** Meeting in the lighthouse room **Contact Danny Sprague for more info:** 352-221-4847
-
-    **Senior Ladies:** Meeting in E3 **Contact Sonja Simmons for more info:** 352-538-0398
-
-    **Soul Sisters:** Meeting in L3 **Contact Candy Dean for more info:** 352-214-0015
-
-    **Fishermen:** Meeting in the L4 **Contact David Bird for more info:** 352-572-2674
-
-    **Senior Men:** Meeting in WC1. **Contact Steve Bird for more info:** 352-817-4711
-
-    **Adult 1:** Meeting in L8. **Contact Cliff Norris for more info:** 352-538-7609
+    ### Eagle Wings Youth (6th -12th): 6:00
   actions: []
   image: ''
 - type: contentblock
