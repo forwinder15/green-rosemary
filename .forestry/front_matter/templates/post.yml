@@ -45,6 +45,3 @@ fields:
   config:
     required: false
   label: Author
-pages:
-- src/pages/posts/broken-palms.md
-- src/pages/posts/fox-village-in-japan.md
