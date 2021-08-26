@@ -5,9 +5,7 @@ subtitle: ''
 img_path: "/images/img_0056.PNG"
 
 ---
-> ### Elevation Youth is designed to help middle school and high school students grow their faith,
->
-> their character, and their relationships.
+> ### Elevation Youth is designed to help middle school and high school students grow their faith,their character, and their relationships.
 
 ### **Wednesdays**
 
