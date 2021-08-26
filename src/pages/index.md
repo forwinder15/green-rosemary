@@ -48,7 +48,7 @@ sections:
 
     ## **Sunday Bible Study Groups**
 
-    ## **9:30 AM**
+    ## **9:15 AM**
 
     **The Lighthouse group:** Meeting in the lighthouse room **Contact Danny Sprague for more info:** 352-221-4847
 
@@ -87,15 +87,6 @@ sections:
   component: ContentBlock
   content: ''
   image: ''
-- type: postsblock
-  template: postsblock
-  title: Pastor's Blog
-  section_id: recent-posts
-  actions:
-  - label: View Blog
-    url: blog/index.html
-  component: PostsBlock
-  num_posts_displayed: 2
 menus:
   main:
     title: Home
