@@ -12,7 +12,7 @@ sections:
 
     [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)
 
-    [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
+    ### [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)To Register for Pioneer Clubs click below
 
     [![Pioneer Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)
   title: Come and worship Jesus with us!
