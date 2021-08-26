@@ -12,7 +12,7 @@ sections:
 
     [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
 
-    [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](https://www.facebook.com/groups/FBCBronson/)
+    [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](/sermons)
 
     ### [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
 
