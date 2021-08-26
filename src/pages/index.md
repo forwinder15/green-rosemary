@@ -6,7 +6,9 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    ![](/images/img_2341.PNG)[![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
+    ![](/images/img_2341.PNG)
+
+    [![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
 
     [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
 
