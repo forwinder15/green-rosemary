@@ -25,6 +25,7 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/celebrate-recovery.md
 - src/pages/children-s-clothes-closet.md
 - src/pages/nursery.md
 - src/pages/staff.md
