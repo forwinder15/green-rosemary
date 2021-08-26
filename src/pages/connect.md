@@ -1,14 +1,14 @@
 ---
 title: Get plugged in to our community
 subtitle: We want you here
-img_path: "/images/biblestudy.jpeg"
+img_path: "/images/screen-shot-2021-08-26-at-12-39-44-am.png"
 menus:
   main:
     title: Get Connected
     weight: 3
 template: page
----
 
+---
 #### **Our church’s mission is to connect people to Jesus.** Being a part of a faith community provides a wonderful opportunity for this to happen
 
 #### In our groups we learn God’s Word, care for each other, praise God for who He is and what He’s done, and pray to God for His help and guidance
