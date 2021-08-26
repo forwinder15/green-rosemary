@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    [![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
+    ![](/images/img_2341.PNG)[![connect form](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372533/DA446331-1DC1-4648-90D1-D3967A2C6F7A.png)](https://forms.gle/651RQkxsmr3C6CMV8)
 
     [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
 
@@ -15,7 +15,7 @@ sections:
     ### [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)To Register for Pioneer Clubs click below
 
     [![Pioneer Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)
-  title: Come and worship Jesus with us!
+  title: ''
   actions: []
 - template: contentblock
   component: ContentBlock
