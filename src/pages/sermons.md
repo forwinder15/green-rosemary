@@ -1,6 +1,6 @@
 ---
 title: Recent Sermons
-subtitle: We want you here
+subtitle: ''
 menus:
   main:
     title: Watch Online
