@@ -1,10 +1,10 @@
 ---
 template: page
-title: "Student Ministry "
-subtitle: ""
+title: 'Student Ministry '
+subtitle: ''
 img_path: "/images/img_0056.PNG"
----
 
+---
 > ### Our Student ministry is designed to help middle school and high school students grow their faith, their character, and their relationships
 
 ### **Wednesdays**
@@ -16,6 +16,10 @@ Each week we meet on Wednesday night and have games, fun, worship, and learning 
 ## Meet Seth our Youth Minister
 
 <iframe src="https://drive.google.com/file/d/1Zni3ZdknpPoIqenU5qwGTysYjC0cM7Js/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Contact Seth
+
+call/text 352-221-4935
 
 # Let's get social
 
