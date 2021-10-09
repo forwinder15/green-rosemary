@@ -42,7 +42,7 @@ sections:
 
     ## **ALL New Wednesday Programs**
 
-    ### Dinner: 5:30
+    ### Family Dinner: 5:30
 
     ### [Pioneer Clubs (Pre-k - 5th): 6:00](/children-s-ministry/)
 
