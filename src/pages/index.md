@@ -18,6 +18,16 @@ sections:
 
       </script>
 
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">About Us</button>
+
+      <script src="/about/"></script>
+
+      <script>
+
+      var tw = create_tithely_widget();
+
+      </script>
+
     <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Watch Online</button>
 
       <script src="/sermons"></script>
@@ -28,15 +38,27 @@ sections:
 
       </script>
 
-    [![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1629948515/IMG_0805.png)](/style-guide/)
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Prayer Requests</button>
+
+      <script src="https://forms.gle/duinCZesEGRo8xDs9"></script>
+
+      <script>
+
+      var tw = create_tithely_widget();
+
+      </script>
+
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">I'm New Here</button>
+
+      <script src="/style-guide/"></script>
+
+      <script>
+
+      var tw = create_tithely_widget();
+
+      </script>
 
     [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
-
-    [![Recent Sermons](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372543/DACB6D80-3F77-464C-A131-6D3E28F7BADF.png)](/sermons)
-
-    ### [![Prayer requests](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1598372534/EA3605CB-5160-466C-9164-C8644F5E9D7F.png)](https://forms.gle/duinCZesEGRo8xDs9)
-
-    [![Pioneer Clubs Sign-up](https://res.cloudinary.com/dsmtzkexd/image/upload/c_scale,f_auto,w_2048/v1629253852/pionner.jpg)](https://forms.gle/syYxcRhbURTo7QGf8)
   title: ''
   actions: []
 - template: contentblock
