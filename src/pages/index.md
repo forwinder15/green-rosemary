@@ -31,7 +31,7 @@ sections:
     19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image: none;
     margin:15px;color: white; text-shadow: none; display: grid; border: none;\" data-church-id=\"1302493\">I'm
     New Here</button>\n\n  <script src=\"/style-guide/\"></script>\n\n  <script>\n\n
-    \ var tw = create_tithely_widget();\n\n  </script>\n\n</container>\n\n[![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)"
+    \ var tw = create_tithely_widget();\n\n  </script>\n\n</container>"
   title: ''
   actions: []
 - template: contentblock
