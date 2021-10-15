@@ -42,7 +42,7 @@ export default class Header extends React.Component {
                           <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
                         </li>
                       ))}
-                      <li className={'menu-item ' + ' current-menu-item' + 'pageContext.url' + "url"} key="4" > <Link to="https://paypal.me/fbcbronson?locale.x=en_US">Give</Link></li>
+                      <li className={'menu-item ' + ' current-menu-item' + 'pageContext.url' + "url"} key="4" > <Link to="https://github.com/forwinder15/green-rosemary.git">Give</Link></li>
 
                     </ul>
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.has_social') &&
