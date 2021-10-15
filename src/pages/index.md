@@ -84,6 +84,14 @@ sections:
   component: ContentBlock
   content: ''
   image: ''
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  content: "![/gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)"
+  title: ''
+  section_id: ''
+  actions: []
+  image: ''
 menus:
   main:
     title: Home
