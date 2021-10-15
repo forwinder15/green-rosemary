@@ -8,7 +8,7 @@ sections:
   content: |-
     ![](/images/img_2343.PNG)
 
-    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Give</button>
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: left; border: none;" data-church-id="1302493">Give</button>
 
       <script src="https://tithe.ly/widget/v3/give.js?3"></script>
 
@@ -18,7 +18,7 @@ sections:
 
       </script>
 
-    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">About Us</button>
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: right; border: none;" data-church-id="1302493">About Us</button>
 
       <script src="/about/"></script>
 
@@ -28,7 +28,7 @@ sections:
 
       </script>
 
-    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Watch Online</button>
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: left; border: none;" data-church-id="1302493">Watch Online</button>
 
       <script src="/sermons"></script>
 
@@ -38,7 +38,7 @@ sections:
 
       </script>
 
-    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Prayer Requests</button>
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: right; border: none;" data-church-id="1302493">Prayer Requests</button>
 
       <script src="https://forms.gle/duinCZesEGRo8xDs9"></script>
 
@@ -48,7 +48,7 @@ sections:
 
       </script>
 
-    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">I'm New Here</button>
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: left; border: none;" data-church-id="1302493">I'm New Here</button>
 
       <script src="/style-guide/"></script>
 
