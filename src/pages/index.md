@@ -5,33 +5,60 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "![](/images/img_2343.PNG)\n\n<container style=\"\n\ndisplay: grid;\n\ngrid-template-columns:
-    repeat(3, 1fr);\n\ngrid-template-rows: 1fr 1fr;\n\n\"> \n\n<button class=\"tithely-give-btn\"
-    style=\"background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size:
-    19px; padding: 30px; border-radius: 4px; cursor: pointer;margin:15px; background-image:
-    none; color: white; text-shadow: none; border: none;\" data-church-id=\"1302493\">Give</button>\n\n
-    \ <script src=\"https://tithe.ly/widget/v3/give.js?3\"></script>\n\n  <script>\n\n
-    \ var tw = create_tithely_widget();\n\n  </script>\n\n<button class=\"tithely-give-btn\"
-    style=\"background-color: #1C98ED;font-family: inherit;margin:15px;font-weight:
-    bold;font-size: 19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image:
-    none; color: white; text-shadow: none; border: none;\" data-church-id=\"1302493\">About
-    Us</button>\n\n  <script src=\"/about/\"></script>\n\n  <script>\n\n  var tw =
-    create_tithely_widget();\n\n  </script>\n\n<button class=\"tithely-give-btn\"
-    style=\"background-color: #1C98ED;font-family: inherit;margin:15px;font-weight:
-    bold;font-size: 19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image:
-    none; color: white; text-shadow: none; border: none;\" data-church-id=\"1302493\">Watch
-    Online</button>\n\n  <script src=\"/sermons\"></script>\n\n  <script>\n\n  var
-    tw = create_tithely_widget();\n\n  </script>\n\n<button class=\"tithely-give-btn\"
-    style=\"background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size:
-    19px; padding: 30px;margin:15px ; border-radius: 4px; cursor: pointer; background-image:
-    none; color: white; text-shadow: none;  border: none;\" data-church-id=\"1302493\">Prayer
-    Requests</button>\n\n  <script src=\"https://forms.gle/duinCZesEGRo8xDs9\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n<button class=\"tithely-give-btn\"
-    style=\"background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size:
-    19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image: none;
-    margin:15px;color: white; text-shadow: none; display: grid; border: none;\" data-church-id=\"1302493\">I'm
-    New Here</button>\n\n  <script src=\"/style-guide/\"></script>\n\n  <script>\n\n
-    \ var tw = create_tithely_widget();\n\n  </script>\n\n</container>"
+  content: |-
+    ![](/images/img_2343.PNG)
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 1fr 1fr;"><button class="tithely-give-btn" style="background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size: 19px; padding: 30px; border-radius: 4px; cursor: pointer;margin:15px; background-image: none; color: white; text-shadow: none; border: none;" data-church-id="1302493">Give</button>
+
+    <script src="https://tithe.ly/widget/v3/give.js?3"></script>
+
+    <script>
+
+    var tw = create_tithely_widget();
+
+    </script>
+
+    <button class="tithely-give-btn" style="background-color: #1C98ED;font-family: inherit;margin:15px;font-weight: bold;font-size: 19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; border: none;" data-church-id="1302493">About Us</button>
+
+    <script src="/about/"></script>
+
+    <script>
+
+    var tw = create_tithely_widget();
+
+    </script>
+
+    <button class="tithely-give-btn" style="background-color: #1C98ED;font-family: inherit;margin:15px;font-weight: bold;font-size: 19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; border: none;" data-church-id="1302493">Watch Online</button>
+
+    <script src="/sermons"></script>
+
+    <script>
+
+    var tw = create_tithely_widget();
+
+    </script>
+
+    <button class="tithely-give-btn" style="background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size: 19px; padding: 30px;margin:15px ; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none;  border: none;" data-church-id="1302493">Prayer Requests</button>
+
+    <script src="https://forms.gle/duinCZesEGRo8xDs9"></script>
+
+    <script>
+
+    var tw = create_tithely_widget();
+
+    </script>
+
+    <button class="tithely-give-btn" style="background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size: 19px; padding: 30px; border-radius: 4px; cursor: pointer; background-image: none; margin:15px;color: white; text-shadow: none; display: grid; border: none;" data-church-id="1302493">I'm New Here</button>
+
+    <script src="/style-guide/"></script>
+
+    <script>
+
+    var tw = create_tithely_widget();
+
+    </script>
+
+    </div>
   title: ''
   actions: []
 - template: contentblock
