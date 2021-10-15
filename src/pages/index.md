@@ -8,6 +8,16 @@ sections:
   content: |-
     ![](/images/img_2343.PNG)
 
+    <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Give</button>
+
+      <script src="https://tithe.ly/widget/v3/give.js?3"></script>
+
+      <script>
+
+      var tw = create_tithely_widget();
+
+      </script>
+
     [![](https://res.cloudinary.com/dsmtzkexd/image/upload/f_auto,q_auto/v1629948515/IMG_0805.png)](/style-guide/)
 
     [![gospel](https://res.cloudinary.com/dsmtzkexd/image/upload/q_auto:good/v1607537160/IMG_2359.png)](/gospel)
