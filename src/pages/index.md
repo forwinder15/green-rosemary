@@ -34,8 +34,8 @@ sections:
   type: contentblock
   title: Upcoming Events
   section_id: events
-  content: '<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%234285F4&amp;ctz=America%2FNew_York&amp;src=cjEwZTRrM3AzN21hMG81cHJqcmg1aGVyZ3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23C0CA33&amp;color=%230B8043&amp;title=Upcoming%20Events&amp;showTz=0&amp;showCalendars=0&amp;mode=AGENDA"
-    style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"></iframe>'
+  content: <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%234285F4&ctz=America%2FNew_York&showPrint=0&showNav=1&showTitle=1&showTabs=1&showCalendars=1&showTz=0&title=Upcoming%20Events%20&src=ZmJjYnJvbnNvbkBnbWFpbC5jb20&color=%237CB342"
+    style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   actions: []
   image: ''
 - template: contentblock
@@ -43,20 +43,12 @@ sections:
   type: contentblock
   title: 'Service Times '
   section_id: Service
-  content: |-
-    # Join us to Worship Jesus on Sundays
-
-    ### Sunday Morning 10:30 AM In-person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
-
-    ### Sunday Morning 9:15 AM Bible Study Groups
-
-    ## **ALL New Wednesday Programs**
-
-    ### Family Dinner: 5:30
-
-    ### [Pioneer Clubs (Pre-k - 5th): 6:00](/children-s-ministry/)
-
-    ### [Eagle Wings Youth (6th -12th): 6:00](/student-ministry)
+  content: "# Join us to Worship Jesus on Sundays\n\n### Sunday Morning 10:30 AM In-person,
+    Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)\n\n### Sunday
+    Morning 9:15 AM Bible Study Groups\n\n## **ALL New Wednesday Programs**\n\n###
+    Family Dinner: 5:30\n\n### [Pioneer Clubs (Pre-k - 5th): 6:00](/children-s-ministry/)\n\n###
+    [Eagle Wings Youth (6th -12th): 6:00](/student-ministry)\n\n## Celebrate Recovery
+    Thursdays at 6:30 "
   actions: []
   image: ''
 - type: contentblock
