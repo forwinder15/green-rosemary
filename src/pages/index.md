@@ -5,8 +5,8 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "![](/images/img_2343.PNG)\n\n<div style=\"\n\ndisplay: flex; \n\n    justify-content:
-    space-between;\n\n\"> \n\n<button class=\"tithely-give-btn\" style=\"background-color:
+  content: "![](/images/img_2343.PNG)\n\n<div style=\"display: flex; justify-content:
+    space-between;\"> \n\n<button class=\"tithely-give-btn\" style=\"background-color:
     #1C98ED;font-family: inherit;margin:15px;font-weight: bold;font-size: 1.5em;  padding:
     10%; border-radius: 4px; cursor: pointer; color: white; border: none;\" data-church-id=\"1302493\">Give</button>\n\n
     \ <script src=\"https://tithe.ly/widget/v3/give.js?3\"></script>\n\n  <script>\n\n
@@ -19,13 +19,12 @@ sections:
     inherit;margin:15px;font-weight: bold;font-size: 1.5em; padding: 30px; border-radius:
     4px; cursor: pointer; background-image: none; color: white; text-shadow: none;
     border: none;\">Watch Online</button>\n\n  <script src=\"/sermons\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n  </div>\n\n
-    \ \n\n  <div style=\"\n\ndisplay: flex; \n\n    justify-content: space-between;\n\n\">
-    \n\n<button class=\"tithely-give-btn\" style=\"background-color: #1C98ED;font-family:
-    inherit;font-weight: bold;font-size: 1.5em; padding: 30px;margin:15px ; border-radius:
-    4px; cursor: pointer; color: white; border: none;\">Prayer Requests</button>\n\n
-    \ <script src=\"https://forms.gle/duinCZesEGRo8xDs9\"></script>\n\n  <script>\n\n
-    \ var tw = create_tithely_widget();\n\n  </script>\n\n<button class=\"tithely-give-btn\"
+    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n  </div>\n\n<div
+    style=\"display: flex; justify-content: space-between;\"> \n\n<button class=\"tithely-give-btn\"
+    style=\"background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size:
+    1.5em; padding: 30px;margin:15px ; border-radius: 4px; cursor: pointer; color:
+    white; border: none;\">Prayer Requests</button>\n\n  <script src=\"https://forms.gle/duinCZesEGRo8xDs9\"></script>\n\n
+    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n<button class=\"tithely-give-btn\"
     style=\"background-color: #1C98ED;font-family: inherit;font-weight: bold;font-size:
     1.5em; padding: 30px; border-radius: 4px; cursor: pointer; margin:15px;color:
     white; border: none;\">I'm New Here</button>\n\n  <script src=\"/style-guide/\"></script>\n\n
@@ -33,7 +32,7 @@ sections:
     class=\"tithely-give-btn\" style=\"background-color: #1C98ED;font-family: inherit;font-weight:
     bold;font-size: 1.5em; padding: 30px; border-radius: 4px; cursor: pointer; margin:15px;color:
     white; border: none;\">Contact</button>\n\n  <script src=\"/contact/\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n</div>"
+    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script></div>"
   title: ''
   actions: []
 - template: contentblock
