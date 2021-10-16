@@ -15,10 +15,17 @@ sections:
   actions:
   - url: "/style-guide/"
     label: I'm New Here
-  - label: 'Give '
-    url: https://tithe.ly/give?c=1302493
   section_id: ''
-  content: ''
+  content: |-
+    <button class="tithely-give-btn" style="background-color: #10bcf9;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1302493">Give</button>
+
+      <script src="https://tithe.ly/widget/v3/give.js?3"></script>
+
+      <script>
+
+      var tw = create_tithely_widget();
+
+      </script>
   image: ''
 - template: contentblock
   component: ContentBlock
