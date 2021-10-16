@@ -10,6 +10,8 @@ template: page
 ---
 ## Glad you could join us
 
+### Looking for our live service? [Click Here](https://www.facebook.com/groups/FBCBronson/) to go to our Facebook group. 
+
 #### New here? Please fill out our [Connect form](https://forms.gle/651RQkxsmr3C6CMV8)
 
 #### We would love to pray for you. Submit your [Prayer Requests](https://forms.gle/duinCZesEGRo8xDs9) here
