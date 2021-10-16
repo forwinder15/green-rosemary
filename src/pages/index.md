@@ -13,6 +13,8 @@ sections:
   type: contentblock
   title: ''
   actions:
+  - label: Watch Online
+    url: "/sermons/"
   - url: "/style-guide/"
     label: I'm New Here
   section_id: ''
