@@ -5,7 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "![](/images/a-great-place-to-call-home.png)"
+  content: |-
+    ![](/images/a-great-place-to-call-home.png)
+
+    <iframe width="806" height="373" src="https://www.youtube.com/embed/lyWutT2FNZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   title: ''
   actions: []
 - template: contentblock
