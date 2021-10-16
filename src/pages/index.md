@@ -13,6 +13,8 @@ sections:
   type: contentblock
   title: ''
   actions:
+  - url: "/style-guide/"
+    label: I'm New Here
   - label: 'Give '
     url: https://tithe.ly/give?c=1302493
   section_id: ''
