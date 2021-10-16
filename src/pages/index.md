@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "![](/images/img_2343.PNG)"
+  content: "![](/images/a-great-place-to-call-home.png)"
   title: ''
   actions: []
 - template: contentblock
