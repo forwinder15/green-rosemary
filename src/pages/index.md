@@ -5,48 +5,10 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: "![](/images/img_2343.PNG)\n\n<div style=\"position: relative; width: 90%;
-    height: 400px; padding: 20px 10px; margin: 15px auto; text-align: center;\"><div
-    style=\"display: inline-block; width: 30%;height: 80px;float: left; margin-left:
-    2%; margin-bottom: 15%;\">   <button class=\"tithely-give-btn\" style=\"position:
-    relative; width: 100%; height: 100%; cursor: pointer;color: #0082d0;font-size:
-    3vw;font-weight: bold;background: none;  border: 3px solid #0082d0; transition:
-    all 0.4s linear;\" data-church-id=\"1302493\">Give</button> <script src=\"https://tithe.ly/widget/v3/give.js?3\"></script><script>
-    var tw = create_tithely_widget();</script></div>\n\n  <div style=\"display: inline-block;\n\n
-    \ width: 30%;\n\n  height: 80px;\n\n  float: left;\n\n  margin-left: 2%;\n\n  margin-bottom:
-    15%;\">\n\n    <button class=\"tithely-give-btn\" style=\"position: relative;\n\n
-    \ width: 100%;\n\n  height: 100%;\n\n  cursor: pointer;\n\n  color: #0082d0;\n\n
-    \ font-size: 3vw;\n\n  font-weight: bold;\n\n  background: none;\n\n  border:
-    3px solid #0082d0;\n\n  transition: all 0.4s linear;\">About Us</button>\n\n  <script
-    src=\"/about/\"></script>\n\n  <script>\n\n  var tw = create_tithely_widget();\n\n
-    \ </script>\n\n  </div>\n\n  <div style=\"display: inline-block;\n\n  width: 30%;\n\n
-    \ height: 80px;\n\n  float: left;\n\n  margin-left: 2%;\n\n  margin-bottom: 15%;\">\n\n
-    \   <button class=\"tithely-give-btn\" style=\"position: relative;\n\n  width:
-    100%;\n\n  height: 100%;\n\n  cursor: pointer;\n\n  color: #0082d0;\n\n  font-size:
-    3vw;\n\n  font-weight: bold;\n\n  background: none;\n\n  border: 3px solid #0082d0;\n\n
-    \ transition: all 0.4s linear;\">Watch Online</button>\n\n  <script src=\"/sermons\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n   \n\n  </div>\n\n
-    \ <div style=\"display: inline-block;\n\n  width: 30%;\n\n  height: 80px;\n\n
-    \ float: left;\n\n  margin-left: 2%;\n\n  margin-bottom: 15%;\">\n\n    <button
-    class=\"tithely-give-btn\" style=\"position: relative;\n\n  width: 100%;\n\n  height:
-    100%;\n\n  cursor: pointer;\n\n  color: #0082d0;\n\n  font-size: 3vw;\n\n  font-weight:
-    bold;\n\n  background: none;\n\n  border: 3px solid #0082d0;\n\n  transition:
-    all 0.4s linear;\">Prayer Requests</button>\n\n  <script src=\"https://forms.gle/duinCZesEGRo8xDs9\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n  </div>\n\n
-    \ <div style=\"display: inline-block;\n\n  width: 30%;\n\n  height: 80px;\n\n
-    \ float: left;\n\n  margin-left: 2%;\n\n  margin-bottom: 15%;\">\n\n    <button
-    class=\"tithely-give-btn\" style=\"position: relative;\n\n  width: 100%;\n\n  height:
-    100%;\n\n  cursor: pointer;\n\n  color: #0082d0;\n\n  font-size: 3vw;\n\n  font-weight:
-    bold;\n\n  background: none;\n\n  border: 3px solid #0082d0;\n\n  transition:
-    all 0.4s linear;\">I'm New Here</button>\n\n  <script src=\"/style-guide/\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n \n\n  </div>\n\n
-    \ <div style=\"display: inline-block;\n\n  width: 30%;\n\n  height: 80px;\n\n
-    \ float: left;\n\n  margin-left: 2%;\n\n  margin-bottom: 15%;\">\n\n    <button
-    class=\"tithely-give-btn\" style=\"position: relative;\n\n  width: 100%;\n\n  height:
-    100%;\n\n  cursor: pointer;\n\n  color: #0082d0;\n\n  font-size: 3vw;\n\n  font-weight:
-    bold;\n\n  background: none;\n\n  border: 3px solid #0082d0;\n\n  transition:
-    all 0.4s linear;\">Contact Us</button>\n\n   <script src=\"/contact/\"></script>\n\n
-    \ <script>\n\n  var tw = create_tithely_widget();\n\n  </script>\n\n  </div>"
+  content: |-
+    ![](/images/img_2343.PNG)
+
+    <div style="position: relative; width: 90%; height: 400px; padding: 20px 10px; margin: 15px auto; text-align: center;"><div style="display: inline-block; width: 30%;height: 80px;float: left; margin-left: 2%; margin-bottom: 15%;">   <button class="tithely-give-btn" style="position: relative; width: 100%; height: 100%; cursor: pointer;color: #0082d0;font-size: 3vw;font-weight: bold;background: none;  border: 3px solid #0082d0; transition: all 0.4s linear;" data-church-id="1302493">Give</button> <script src="https://tithe.ly/widget/v3/give.js?3"></script><script> var tw = create_tithely_widget();</script></div><div style="display: inline-block;width: 30%;height: 80px;float: left;margin-left: 2%;margin-bottom: 15%;"><button class="tithely-give-btn" style="position: relative;width: 100%;height: 100%;cursor: pointer;color: #0082d0;font-size: 3vw;font-weight: bold;background: none;border: 3px solid #0082d0;transition: all 0.4s linear;">About Us</button><script src="/about/"></script><script>var tw = create_tithely_widget();</script></div><div style="display: inline-block;width: 30%;height: 80px;float: left;margin-left: 2%;margin-bottom: 15%;"><button class="tithely-give-btn" style="position: relative;width: 100%;height: 100%;cursor: pointer;color: #0082d0;font-size: 3vw;font-weight: bold;background: none;border: 3px solid #0082d0;transition: all 0.4s linear;">Watch Online</button><script src="/sermons"></script><script>var tw = create_tithely_widget();</script></div><div style="display: inline-block;width: 30%;height: 80px;float: left;margin-left: 2%;margin-bottom: 15%;"><button class="tithely-give-btn" style="position: relative;width: 100%;height: 100%;cursor: pointer;color: #0082d0;font-size: 3vw;font-weight: bold;background: none;border: 3px solid #0082d0;transition: all 0.4s linear;">Prayer Requests</button><script src="https://forms.gle/duinCZesEGRo8xDs9"></script><script>var tw = create_tithely_widget();</script></div><div style="display: inline-block;width: 30%;height: 80px;float: left;margin-left: 2%;margin-bottom: 15%;"><button class="tithely-give-btn" style="position: relative;width: 100%;height: 100%;cursor: pointer;color: #0082d0;font-size: 3vw;font-weight: bold;background: none;border: 3px solid #0082d0;transition: all 0.4s linear;">I'm New Here</button><script src="/style-guide/"></script><script>var tw = create_tithely_widget();</script></div><div style="display: inline-block;width: 30%;height: 80px;float: left;margin-left: 2%;margin-bottom: 15%;"><button class="tithely-give-btn" style="position: relative;width: 100%;height: 100%;cursor: pointer;color: #0082d0;font-size: 3vw;font-weight: bold;background: none;border: 3px solid #0082d0;transition: all 0.4s linear;">Contact Us</button><script src="/contact/"></script><script>var tw = create_tithely_widget();</script></div>
   title: ''
   actions: []
 - template: contentblock
