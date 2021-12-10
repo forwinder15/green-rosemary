@@ -17,7 +17,7 @@ sections:
   title: ''
   actions:
   - label: Watch Online
-    url: "/sermons/"
+    url: https://www.youtube.com/channel/UCudxbUidzCb8G2drHgeyH6Q
   - url: "/style-guide/"
     label: I'm New Here
   section_id: ''
